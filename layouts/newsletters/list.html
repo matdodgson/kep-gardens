@@ -14,10 +14,13 @@
                 {{ range $newsletters }}
                     {{ $year := .Date.Format "2006" }}
                     {{ if ne $year $currentYear }}
-                        {{ if ne $currentYear "" }}</div>{{ end }}
-                        <div class="mb-8">
-                            <h3 class="text-xl font-semibold mb-4 text-blue-600">{{ $year }}</h3>
-                            <div class="space-y-4">
+                        {{ if ne $currentYear "" }}
+                            </div> <!-- Close previous year's newsletter list -->
+                        </div> <!-- Close previous year section -->
+                        {{ end }}
+                        <div class="mb-8"> <!-- Start new year section -->
+                            <h3 class="text-xl font-semibold mb-4 text-green-600">{{ $year }}</h3>
+                            <div class="space-y-4"> <!-- Start new year's newsletter list -->
                         {{ $currentYear = $year }}
                     {{ end }}
                     
@@ -25,7 +28,7 @@
                         <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between">
                             <div class="flex-1">
                                 <h4 class="text-lg font-semibold mb-2">
-                                    <a href="{{ .Permalink }}" class="text-gray-800 hover:text-blue-600 transition-colors">
+                                    <a href="{{ .Permalink }}" class="text-gray-800 hover:text-green-600 transition-colors">
                                         {{ .Title }}
                                     </a>
                                 </h4>
@@ -39,13 +42,13 @@
                             </div>
                             <div class="mt-4 sm:mt-0 sm:ml-6 flex space-x-3">
                                 <a href="{{ .Permalink }}" 
-                                   class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors text-sm">
+                                   class="inline-flex items-center px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors text-sm">
                                     📖 Read Online
                                 </a>
                                 {{ if .Params.pdf_file }}
                                     <a href="{{ .Params.pdf_file }}" 
                                        target="_blank"
-                                       class="inline-flex items-center px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors text-sm">
+                                       class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors text-sm">
                                         📥 Download PDF
                                     </a>
                                 {{ end }}
@@ -53,7 +56,10 @@
                         </div>
                     </div>
                 {{ end }}
-                </div> <!-- Close the last year's div -->
+                {{ if gt (len $newsletters) 0 }}
+                    </div> <!-- Close last year's newsletter list -->
+                </div> <!-- Close last year section -->
+                {{ end }}
             {{ else }}
                 <div class="text-center py-12">
                     <p class="text-gray-600 text-lg">No newsletters available yet. Check back soon!</p>
