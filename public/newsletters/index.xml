@@ -2,276 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletters on KepGardens</title>
-    <link>https://kepgardens.com/newsletters/</link>
+    <link>http://localhost:1313/newsletters/</link>
     <description>Recent content in Newsletters on KepGardens</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kepgardens.com/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsletters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>April 2025 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2025-04-april/</link>
+      <link>http://localhost:1313/newsletters/2025-04-april/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2025-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2025-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2025</description>
     </item>
     <item>
       <title>December 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-12-december/</link>
+      <link>http://localhost:1313/newsletters/2024-12-december/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2024-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2024</description>
     </item>
     <item>
       <title>July 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-07-july/</link>
+      <link>http://localhost:1313/newsletters/2024-07-july/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2024-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2024</description>
     </item>
     <item>
       <title>April 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-04-april/</link>
+      <link>http://localhost:1313/newsletters/2024-04-april/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2024-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2024</description>
     </item>
     <item>
       <title>December 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-12-december/</link>
+      <link>http://localhost:1313/newsletters/2022-12-december/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2022-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2022</description>
     </item>
     <item>
       <title>July 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-07-july/</link>
+      <link>http://localhost:1313/newsletters/2022-07-july/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2022-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2022</description>
     </item>
     <item>
       <title>March 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-03-march/</link>
+      <link>http://localhost:1313/newsletters/2022-03-march/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2022-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2022</description>
     </item>
     <item>
       <title>November 2021 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2021-11-november/</link>
+      <link>http://localhost:1313/newsletters/2021-11-november/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2021-11-november/</guid>
+      <guid>http://localhost:1313/newsletters/2021-11-november/</guid>
       <description>Kep Gardens community updates and highlights for November 2021</description>
     </item>
     <item>
       <title>April 2021 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2021-04-april/</link>
+      <link>http://localhost:1313/newsletters/2021-04-april/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2021-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2021-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2021</description>
     </item>
     <item>
       <title>December 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-12-december/</link>
+      <link>http://localhost:1313/newsletters/2020-12-december/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2020-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2020</description>
     </item>
     <item>
       <title>September 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-09-september/</link>
+      <link>http://localhost:1313/newsletters/2020-09-september/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2020-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2020</description>
     </item>
     <item>
       <title>June 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-06-june/</link>
+      <link>http://localhost:1313/newsletters/2020-06-june/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2020-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2020</description>
     </item>
     <item>
       <title>March 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-03-march/</link>
+      <link>http://localhost:1313/newsletters/2020-03-march/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2020-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2020</description>
     </item>
     <item>
       <title>December 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-12-december/</link>
+      <link>http://localhost:1313/newsletters/2019-12-december/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2019-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2019</description>
     </item>
     <item>
       <title>September 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-09-september/</link>
+      <link>http://localhost:1313/newsletters/2019-09-september/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2019-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2019</description>
     </item>
     <item>
       <title>April 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-04-april/</link>
+      <link>http://localhost:1313/newsletters/2019-04-april/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2019-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2019</description>
     </item>
     <item>
       <title>October 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-10-october/</link>
+      <link>http://localhost:1313/newsletters/2018-10-october/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-10-october/</guid>
+      <guid>http://localhost:1313/newsletters/2018-10-october/</guid>
       <description>Kep Gardens community updates and highlights for October 2018</description>
     </item>
     <item>
       <title>June 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-06-june/</link>
+      <link>http://localhost:1313/newsletters/2018-06-june/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2018-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2018</description>
     </item>
     <item>
       <title>March 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-03-march/</link>
+      <link>http://localhost:1313/newsletters/2018-03-march/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2018-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2018</description>
     </item>
     <item>
       <title>December 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-12-december/</link>
+      <link>http://localhost:1313/newsletters/2017-12-december/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2017-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2017</description>
     </item>
     <item>
       <title>September 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-09-september/</link>
+      <link>http://localhost:1313/newsletters/2017-09-september/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2017-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2017</description>
     </item>
     <item>
       <title>June 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-06-june/</link>
+      <link>http://localhost:1313/newsletters/2017-06-june/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2017-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2017</description>
     </item>
     <item>
       <title>March 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-03-march/</link>
+      <link>http://localhost:1313/newsletters/2017-03-march/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2017-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2017</description>
     </item>
     <item>
       <title>December 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-12-december/</link>
+      <link>http://localhost:1313/newsletters/2016-12-december/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2016-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2016</description>
     </item>
     <item>
       <title>September 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-09-september/</link>
+      <link>http://localhost:1313/newsletters/2016-09-september/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2016-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2016</description>
     </item>
     <item>
       <title>August 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-08-august/</link>
+      <link>http://localhost:1313/newsletters/2016-08-august/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-08-august/</guid>
+      <guid>http://localhost:1313/newsletters/2016-08-august/</guid>
       <description>Kep Gardens community updates and highlights for August 2016</description>
     </item>
     <item>
       <title>June 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-06-june/</link>
+      <link>http://localhost:1313/newsletters/2016-06-june/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2016-06-june/</guid>
       <description>Special campaign newsletter highlighting Kep Gardens fundraising initiatives</description>
     </item>
     <item>
       <title>May 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-05-may/</link>
+      <link>http://localhost:1313/newsletters/2016-05-may/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-05-may/</guid>
+      <guid>http://localhost:1313/newsletters/2016-05-may/</guid>
       <description>Kep Gardens community updates and highlights for May 2016</description>
     </item>
     <item>
       <title>February 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-02-february/</link>
+      <link>http://localhost:1313/newsletters/2016-02-february/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-02-february/</guid>
+      <guid>http://localhost:1313/newsletters/2016-02-february/</guid>
       <description>Kep Gardens community updates and highlights for February 2016</description>
     </item>
     <item>
       <title>December 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-12-december/</link>
+      <link>http://localhost:1313/newsletters/2015-12-december/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2015-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2015</description>
     </item>
     <item>
       <title>September 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-09-september/</link>
+      <link>http://localhost:1313/newsletters/2015-09-september/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2015-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2015</description>
     </item>
     <item>
       <title>July 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-07-july/</link>
+      <link>http://localhost:1313/newsletters/2015-07-july/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2015-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2015</description>
     </item>
     <item>
       <title>April 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-04-april/</link>
+      <link>http://localhost:1313/newsletters/2015-04-april/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2015-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2015</description>
     </item>
     <item>
       <title>October 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-10-october/</link>
+      <link>http://localhost:1313/newsletters/2014-10-october/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-10-october/</guid>
+      <guid>http://localhost:1313/newsletters/2014-10-october/</guid>
       <description>Kep Gardens community updates and highlights for October 2014</description>
     </item>
     <item>
       <title>July 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-07-july/</link>
+      <link>http://localhost:1313/newsletters/2014-07-july/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2014-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2014</description>
     </item>
     <item>
       <title>April 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-04-april/</link>
+      <link>http://localhost:1313/newsletters/2014-04-april/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2014-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2014</description>
     </item>
     <item>
       <title>January 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-01-january/</link>
+      <link>http://localhost:1313/newsletters/2014-01-january/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-01-january/</guid>
+      <guid>http://localhost:1313/newsletters/2014-01-january/</guid>
       <description>Kep Gardens community updates and highlights for January 2014</description>
     </item>
     <item>
       <title>November 2011 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2011-11-november/</link>
+      <link>http://localhost:1313/newsletters/2011-11-november/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2011-11-november/</guid>
+      <guid>http://localhost:1313/newsletters/2011-11-november/</guid>
       <description>Kep Gardens community updates and highlights for November 2011</description>
     </item>
   </channel>
