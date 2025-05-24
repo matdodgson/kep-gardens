@@ -1,0 +1,63 @@
+baseURL = 'https://kepgardens.com/'
+languageCode = 'en-us'
+title = 'KepGardens'
+theme = 'kepgardens-custom'
+
+[params]
+  description = "Kep Gardens is a community development project. A non-profit, non-government organization with no political or religious affiliations. Cambodians and Australians working together for a brighter future."
+  author = "KepGardens Team"
+  
+  [params.social]
+    youtube = "https://www.youtube.com/@kepgardensassociation3207"
+    facebook = "https://www.facebook.com/kepgardens/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About Us"
+    pageRef = "/about-us"
+    weight = 20
+
+  [[menu.main]]
+    name = "Education Centre"
+    pageRef = "/education-centre"
+    weight = 30
+
+  [[menu.main]]
+    name = "The Workshop"
+    pageRef = "/workshop"
+    weight = 40
+
+  [[menu.main]]
+    name = "Educational Support Fund"
+    pageRef = "/educational-support-fund"
+    weight = 50
+
+  [[menu.main]]
+    name = "Volunteers"
+    pageRef = "/volunteers"
+    weight = 60
+
+  [[menu.main]]
+    name = "Newsletters"
+    pageRef = "/newsletters"
+    weight = 80
+
+  [[menu.main]]
+    name = "Donate"
+    pageRef = "/donate"
+    weight = 90
+
+  [[menu.main]]
+    name = "Contact Us"
+    pageRef = "/contact-us"
+    weight = 100
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,88 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+    <div class="max-w-4xl mx-auto">
+        <!-- Newsletter Header -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
+                <div>
+                    <h1 class="text-3xl font-bold text-gray-800 mb-2">{{ .Title }}</h1>
+                    <div class="flex items-center text-gray-600">
+                        <span class="mr-4">📅 {{ .Date.Format "January 2006" }}</span>
+                        {{ if .Params.pdf_file }}
+                            <span>📄 PDF Available</span>
+                        {{ end }}
+                    </div>
+                </div>
+                <div class="mt-4 sm:mt-0 flex space-x-3">
+                    <a href="/newsletters/" 
+                       class="inline-flex items-center px-4 py-2 bg-gray-600 text-white rounded-md hover:bg-gray-700 transition-colors">
+                        ← Back to Archive
+                    </a>
+                    {{ if .Params.pdf_file }}
+                        <a href="{{ .Params.pdf_file }}" 
+                           target="_blank"
+                           class="inline-flex items-center px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors">
+                            📥 Download PDF
+                        </a>
+                    {{ end }}
+                </div>
+            </div>
+            
+            {{ if .Params.summary }}
+                <p class="text-lg text-gray-700 border-l-4 border-blue-600 pl-4">
+                    {{ .Params.summary }}
+                </p>
+            {{ end }}
+        </div>
+
+        <!-- Newsletter Content -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+            {{ .Content }}
+        </div>
+
+        <!-- PDF Embed Section -->
+        {{ if .Params.pdf_file }}
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-semibold mb-4">View Newsletter</h3>
+                <div class="border rounded-lg overflow-hidden">
+                    <iframe src="{{ .Params.pdf_file }}" 
+                            width="100%" 
+                            height="800"
+                            style="border: none;"
+                            title="{{ .Title }} - PDF Viewer">
+                        <p>Your browser doesn't support PDF viewing. 
+                           <a href="{{ .Params.pdf_file }}" target="_blank">Download the PDF</a> instead.
+                        </p>
+                    </iframe>
+                </div>
+                <div class="mt-4 text-center">
+                    <a href="{{ .Params.pdf_file }}" 
+                       target="_blank"
+                       class="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors">
+                        📥 Download Full PDF
+                    </a>
+                </div>
+            </div>
+        {{ end }}
+
+        <!-- Navigation -->
+        <div class="mt-8 flex justify-between">
+            {{ with .PrevInSection }}
+                <a href="{{ .Permalink }}" 
+                   class="inline-flex items-center px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors">
+                    ← {{ .Title }}
+                </a>
+            {{ else }}
+                <span></span>
+            {{ end }}
+            
+            {{ with .NextInSection }}
+                <a href="{{ .Permalink }}" 
+                   class="inline-flex items-center px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors">
+                    {{ .Title }} →
+                </a>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }} 

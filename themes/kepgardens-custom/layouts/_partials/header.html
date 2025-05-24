@@ -1,0 +1,33 @@
+<nav class="flex flex-col h-full">
+  <!-- Logo/Site Title -->
+  <div class="p-6 border-b border-gray-200">
+    <!-- Logo -->
+    <div class="flex justify-center mb-4">
+      <a href="{{ "/" | relURL }}" class="block">
+        <img src="{{ "kep-gardens-logo.png" | relURL }}" 
+             alt="{{ site.Title }} Logo" 
+             class="w-auto max-w-full object-contain">
+      </a>
+    </div>
+    
+    <!-- Site Title -->
+    <a href="{{ "/" | relURL }}" class="text-xl font-bold text-green-600 hover:text-green-700 block text-center">
+      {{ site.Title }}
+    </a>
+  </div>
+  
+  <!-- Navigation Menu -->
+  <div class="flex-1 py-6">
+    {{ $currentPage := . }}
+    <ul class="space-y-2 px-4">
+      {{ range site.Menus.main }}
+        <li>
+          <a href="{{ .URL | relURL }}" 
+             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 {{ if $currentPage.IsMenuCurrent "main" . }}text-green-600 bg-green-50 border-r-4 border-green-600{{ end }}">
+            {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>

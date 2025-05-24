@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+    <div class="max-w-4xl mx-auto">
+        {{ .Content }}
+        
+        <div class="mt-8">
+            <h2 class="text-2xl font-bold mb-6">Newsletter Archive</h2>
+            
+            {{ $newsletters := where .Site.RegularPages "Type" "newsletter" }}
+            {{ $newsletters = $newsletters.ByDate.Reverse }}
+            
+            {{ if $newsletters }}
+                {{ $currentYear := "" }}
+                {{ range $newsletters }}
+                    {{ $year := .Date.Format "2006" }}
+                    {{ if ne $year $currentYear }}
+                        {{ if ne $currentYear "" }}</div>{{ end }}
+                        <div class="mb-8">
+                            <h3 class="text-xl font-semibold mb-4 text-blue-600">{{ $year }}</h3>
+                            <div class="space-y-4">
+                        {{ $currentYear = $year }}
+                    {{ end }}
+                    
+                    <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-300">
+                        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between">
+                            <div class="flex-1">
+                                <h4 class="text-lg font-semibold mb-2">
+                                    <a href="{{ .Permalink }}" class="text-gray-800 hover:text-blue-600 transition-colors">
+                                        {{ .Title }}
+                                    </a>
+                                </h4>
+                                <p class="text-gray-600 mb-3">{{ .Params.summary }}</p>
+                                <div class="flex items-center text-sm text-gray-500">
+                                    <span class="mr-4">📅 {{ .Date.Format "January 2006" }}</span>
+                                    {{ if .Params.pdf_file }}
+                                        <span>📄 PDF Available</span>
+                                    {{ end }}
+                                </div>
+                            </div>
+                            <div class="mt-4 sm:mt-0 sm:ml-6 flex space-x-3">
+                                <a href="{{ .Permalink }}" 
+                                   class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors text-sm">
+                                    📖 Read Online
+                                </a>
+                                {{ if .Params.pdf_file }}
+                                    <a href="{{ .Params.pdf_file }}" 
+                                       target="_blank"
+                                       class="inline-flex items-center px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors text-sm">
+                                        📥 Download PDF
+                                    </a>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                </div> <!-- Close the last year's div -->
+            {{ else }}
+                <div class="text-center py-12">
+                    <p class="text-gray-600 text-lg">No newsletters available yet. Check back soon!</p>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }} 

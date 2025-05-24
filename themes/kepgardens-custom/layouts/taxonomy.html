@@ -1,0 +1,81 @@
+{{ define "main" }}
+<div class="mb-12">
+  <!-- Taxonomy Header -->
+  <header class="text-center mb-12">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+      {{ .Title }}
+    </h1>
+    <p class="text-xl text-gray-600">
+      {{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }} tagged with "{{ .Title }}"
+    </p>
+  </header>
+  
+  <!-- Posts Grid -->
+  {{ $pages := .Pages }}
+  {{ if gt (len $pages) 0 }}
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+    {{ range $pages }}
+    <article class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+      {{ with .Params.image }}
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-48 object-cover">
+      {{ else }}
+        <div class="w-full h-48 bg-gradient-to-br from-green-100 to-green-200 flex items-center justify-center">
+          <span class="text-4xl">🌱</span>
+        </div>
+      {{ end }}
+      
+      <div class="p-6">
+        <div class="flex items-center text-sm text-gray-500 mb-3">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          {{ with .Params.readTime }}
+            <span class="mx-2">•</span>
+            <span>{{ . }} min read</span>
+          {{ end }}
+        </div>
+        
+        <h2 class="text-xl font-semibold text-gray-800 mb-3 line-clamp-2">
+          <a href="{{ .RelPermalink }}" class="hover:text-green-600 transition-colors duration-200">
+            {{ .Title }}
+          </a>
+        </h2>
+        
+        <p class="text-gray-600 mb-4 line-clamp-3">
+          {{ .Summary }}
+        </p>
+        
+        {{ with .Params.tags }}
+        <div class="flex flex-wrap gap-2 mb-4">
+          {{ range first 3 . }}
+            <span class="text-xs bg-green-100 text-green-800 px-2 py-1 rounded-full">
+              {{ . }}
+            </span>
+          {{ end }}
+        </div>
+        {{ end }}
+        
+        <a href="{{ .RelPermalink }}" class="text-green-600 hover:text-green-700 font-medium">
+          Read More →
+        </a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+  
+  <!-- Pagination -->
+  {{ template "_internal/pagination.html" . }}
+  
+  {{ else }}
+  <!-- Empty State -->
+  <div class="text-center py-12">
+    <div class="text-6xl mb-4">🏷️</div>
+    <h2 class="text-2xl font-semibold text-gray-800 mb-4">No posts found</h2>
+    <p class="text-gray-600 mb-8">There are no posts with this tag yet.</p>
+    <a href="/posts" class="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors duration-200">
+      Browse All Posts
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
