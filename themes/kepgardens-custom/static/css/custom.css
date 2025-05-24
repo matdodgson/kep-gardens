@@ -1,5 +1,11 @@
 /* Custom styles for KepGardens theme */
 
+/* Remove default margins and padding from header */
+header {
+  margin: 0;
+  padding: 0;
+}
+
 /* Line clamp utilities */
 .line-clamp-2 {
   display: -webkit-box;
@@ -13,6 +19,42 @@
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* Responsive improvements */
+@media (max-width: 640px) {
+  /* Make sure mobile menu doesn't interfere with content */
+  .prose img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Improve table responsiveness on mobile */
+  .prose table {
+    font-size: 0.75rem;
+  }
+  
+  /* Better spacing for mobile prose content */
+  .prose h1 {
+    font-size: 1.875rem;
+    line-height: 1.2;
+  }
+  
+  .prose h2 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+  
+  .prose h3 {
+    font-size: 1.25rem;
+  }
+}
+
+/* Ensure sidebar doesn't cover content on mobile */
+@media (max-width: 1023px) {
+  body.overflow-hidden {
+    overflow: hidden;
+  }
 }
 
 /* Prose styling for content */
@@ -190,6 +232,16 @@
   margin-bottom: 2em;
   font-size: 0.875em;
   line-height: 1.7142857;
+  overflow-x: auto;
+  display: block;
+  white-space: nowrap;
+}
+
+@media (min-width: 640px) {
+  .prose table {
+    display: table;
+    white-space: normal;
+  }
 }
 
 .prose thead {
@@ -226,10 +278,11 @@
 .prose img {
   margin-top: 2em;
   margin-bottom: 2em;
-  border-radius: 0.5rem;
+  max-width: 100%;
+  height: auto;
 }
 
-/* Custom animations */
+/* Animation utilities */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -245,13 +298,13 @@
   animation: fadeIn 0.6s ease-out;
 }
 
-/* Custom focus states */
+/* Focus ring utility */
 .focus-ring:focus {
   outline: 2px solid #059669;
   outline-offset: 2px;
 }
 
-/* Print styles */
+/* Hide elements in print */
 @media print {
   .no-print {
     display: none !important;

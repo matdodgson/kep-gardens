@@ -5,15 +5,35 @@
 </head>
 <body class="bg-gray-50 font-sans m-0 p-0">
   <div class="min-h-screen flex flex-col">
-    <div class="flex max-w-7xl mx-auto flex-grow">
-      <!-- Left Sidebar Navigation -->
-      <aside class="bg-white shadow-lg w-64 flex-shrink-0">
+    <!-- Mobile Header -->
+    <header class="lg:hidden bg-white shadow-lg z-50 m-0">
+      <div class="flex items-center justify-between p-4">
+        <a href="{{ "/" | relURL }}" class="flex items-center">
+          <img src="{{ "kep-gardens-logo.png" | relURL }}" 
+               alt="{{ site.Title }} Logo" 
+               class="h-8 w-auto mr-3">
+          <span class="text-lg font-bold text-green-600">{{ site.Title }}</span>
+        </a>
+        <button id="mobile-menu-toggle" class="p-2 text-gray-600 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-green-500 rounded-md">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu-overlay" class="lg:hidden fixed inset-0 bg-gray-600 bg-opacity-50 z-40 hidden"></div>
+
+    <div class="flex-grow flex">
+      <!-- Desktop/Mobile Sidebar Navigation -->
+      <aside id="sidebar" class="bg-white shadow-lg w-64 flex-shrink-0 transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out fixed lg:static inset-y-0 left-0 z-50 lg:z-auto">
         {{ partial "header.html" . }}
       </aside>
       
       <!-- Main Content Area -->
-      <div class="w-[900px]">
-        <main class="px-8 py-8">
+      <div class="flex-1 w-full lg:w-auto min-w-0">
+        <main class="px-4 sm:px-6 lg:px-8 py-6 lg:py-8 max-w-4xl lg:max-w-none">
           {{ block "main" . }}{{ end }}
         </main>
       </div>
@@ -26,5 +46,51 @@
       </div>
     </footer>
   </div>
+
+  <!-- Mobile Menu JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+      const sidebar = document.getElementById('sidebar');
+      const overlay = document.getElementById('mobile-menu-overlay');
+      
+      function toggleMobileMenu() {
+        sidebar.classList.toggle('-translate-x-full');
+        overlay.classList.toggle('hidden');
+        document.body.classList.toggle('overflow-hidden');
+      }
+      
+      function closeMobileMenu() {
+        sidebar.classList.add('-translate-x-full');
+        overlay.classList.add('hidden');
+        document.body.classList.remove('overflow-hidden');
+      }
+      
+      if (mobileMenuToggle) {
+        mobileMenuToggle.addEventListener('click', toggleMobileMenu);
+      }
+      
+      if (overlay) {
+        overlay.addEventListener('click', closeMobileMenu);
+      }
+      
+      // Close menu when clicking on a navigation link (mobile)
+      const navLinks = sidebar.querySelectorAll('a');
+      navLinks.forEach(link => {
+        link.addEventListener('click', () => {
+          if (window.innerWidth < 1024) {
+            closeMobileMenu();
+          }
+        });
+      });
+      
+      // Handle window resize
+      window.addEventListener('resize', function() {
+        if (window.innerWidth >= 1024) {
+          closeMobileMenu();
+        }
+      });
+    });
+  </script>
 </body>
 </html>

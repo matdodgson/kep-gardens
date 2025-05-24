@@ -37,91 +37,111 @@
 </head>
 <body class="bg-gray-50 font-sans m-0 p-0">
   <div class="min-h-screen flex flex-col">
-    <div class="flex max-w-7xl mx-auto flex-grow">
+    
+    <header class="lg:hidden bg-white shadow-lg z-50 m-0">
+      <div class="flex items-center justify-between p-4">
+        <a href="/" class="flex items-center">
+          <img src="/kep-gardens-logo.png" 
+               alt="KepGardens Logo" 
+               class="h-8 w-auto mr-3">
+          <span class="text-lg font-bold text-green-600">KepGardens</span>
+        </a>
+        <button id="mobile-menu-toggle" class="p-2 text-gray-600 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-green-500 rounded-md">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    
+    <div id="mobile-menu-overlay" class="lg:hidden fixed inset-0 bg-gray-600 bg-opacity-50 z-40 hidden"></div>
+
+    <div class="flex-grow flex">
       
-      <aside class="bg-white shadow-lg w-64 flex-shrink-0">
+      <aside id="sidebar" class="bg-white shadow-lg w-64 flex-shrink-0 transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out fixed lg:static inset-y-0 left-0 z-50 lg:z-auto">
         <nav class="flex flex-col h-full">
   
-  <div class="p-6 border-b border-gray-200">
+  <div class="p-4 lg:p-6 border-b border-gray-200">
     
-    <div class="flex justify-center mb-4">
+    <div class="flex justify-center mb-3 lg:mb-4">
       <a href="/" class="block">
         <img src="/kep-gardens-logo.png" 
              alt="KepGardens Logo" 
-             class="w-auto max-w-full object-contain">
+             class="w-auto max-w-full object-contain h-16 lg:h-auto">
       </a>
     </div>
     
     
-    <a href="/" class="text-xl font-bold text-green-600 hover:text-green-700 block text-center">
+    <a href="/" class="text-lg lg:text-xl font-bold text-green-600 hover:text-green-700 block text-center">
       KepGardens
     </a>
   </div>
   
   
-  <div class="flex-1 py-6">
+  <div class="flex-1 py-4 lg:py-6 overflow-y-auto">
     
-    <ul class="space-y-2 px-4">
+    <ul class="space-y-1 lg:space-y-2 px-2 lg:px-4">
       
         <li>
           <a href="/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Home
           </a>
         </li>
       
         <li>
           <a href="/about-us/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             About Us
           </a>
         </li>
       
         <li>
           <a href="/education-centre/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Education Centre
           </a>
         </li>
       
         <li>
           <a href="/workshop/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             The Workshop
           </a>
         </li>
       
         <li>
           <a href="/educational-support-fund/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Educational Support Fund
           </a>
         </li>
       
         <li>
           <a href="/volunteers/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Volunteers
           </a>
         </li>
       
         <li>
           <a href="/newsletters/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Newsletters
           </a>
         </li>
       
         <li>
           <a href="/donate/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Donate
           </a>
         </li>
       
         <li>
           <a href="/contact-us/" 
-             class="block px-4 py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Contact Us
           </a>
         </li>
@@ -133,19 +153,19 @@
       </aside>
       
       
-      <div class="w-[900px]">
-        <main class="px-8 py-8">
+      <div class="flex-1 w-full lg:w-auto min-w-0">
+        <main class="px-4 sm:px-6 lg:px-8 py-6 lg:py-8 max-w-4xl lg:max-w-none">
           
 <article class="bg-white rounded-lg shadow-lg overflow-hidden">
   
-  <header class="p-8 md:p-12 bg-gradient-to-br from-green-50 to-blue-50">
+  <header class="p-4 sm:p-6 lg:p-8 xl:p-12 bg-gradient-to-br from-green-50 to-blue-50">
     <div class="max-w-3xl mx-auto text-center">
-      <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
+      <h1 class="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-800 mb-4 lg:mb-6">
         January 2014 Newsletter
       </h1>
       
       
-      <div class="flex flex-wrap items-center justify-center gap-4 text-gray-600 mb-6">
+      <div class="flex flex-wrap items-center justify-center gap-2 sm:gap-4 text-sm lg:text-base text-gray-600 mb-4 lg:mb-6">
         <time datetime="2014-01-01" class="flex items-center">
           <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
@@ -167,8 +187,8 @@
   
   
   
-  <div class="p-8 md:p-12">
-    <div class="prose prose-lg max-w-none">
+  <div class="p-4 sm:p-6 lg:p-8 xl:p-12">
+    <div class="prose prose-sm sm:prose lg:prose-lg max-w-none">
       
 
 
@@ -263,11 +283,11 @@
     
     <footer class="bg-gray-800 text-white w-full">
       <div class="max-w-7xl mx-auto">
-        <div class="container mx-auto px-4 py-8">
-  <div class="flex flex-col md:flex-row md:items-center md:justify-between space-y-4 md:space-y-0">
+        <div class="container mx-auto px-4 py-6 lg:py-8">
+  <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between space-y-6 lg:space-y-0">
     
-    <div class="flex flex-col items-center md:items-start">
-      <h3 class="text-lg font-semibold text-gray-200 mb-3">Follow Us</h3>
+    <div class="flex flex-col items-center lg:items-start">
+      <h3 class="text-base lg:text-lg font-semibold text-gray-200 mb-3">Follow Us</h3>
       
 <div class="social-links flex flex-wrap justify-center md:justify-start gap-4">
   <a href="https://www.facebook.com/kepgardens/" target="_blank" rel="noopener noreferrer" 
@@ -290,11 +310,11 @@
     </div>
     
     
-    <div class="flex flex-col items-center md:items-end text-center md:text-right">
-      <p class="text-gray-300">
+    <div class="flex flex-col items-center lg:items-end text-center lg:text-right">
+      <p class="text-gray-300 text-sm lg:text-base">
         © 2025 KepGardens. All rights reserved.
       </p>
-      <p class="text-gray-400 text-sm mt-1">
+      <p class="text-gray-400 text-xs lg:text-sm mt-1 max-w-xs lg:max-w-md">
         A non-profit, non-government organization working for community development in Cambodia.
       </p>
     </div>
@@ -304,5 +324,51 @@
       </div>
     </footer>
   </div>
+
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+      const sidebar = document.getElementById('sidebar');
+      const overlay = document.getElementById('mobile-menu-overlay');
+      
+      function toggleMobileMenu() {
+        sidebar.classList.toggle('-translate-x-full');
+        overlay.classList.toggle('hidden');
+        document.body.classList.toggle('overflow-hidden');
+      }
+      
+      function closeMobileMenu() {
+        sidebar.classList.add('-translate-x-full');
+        overlay.classList.add('hidden');
+        document.body.classList.remove('overflow-hidden');
+      }
+      
+      if (mobileMenuToggle) {
+        mobileMenuToggle.addEventListener('click', toggleMobileMenu);
+      }
+      
+      if (overlay) {
+        overlay.addEventListener('click', closeMobileMenu);
+      }
+      
+      
+      const navLinks = sidebar.querySelectorAll('a');
+      navLinks.forEach(link => {
+        link.addEventListener('click', () => {
+          if (window.innerWidth < 1024) {
+            closeMobileMenu();
+          }
+        });
+      });
+      
+      
+      window.addEventListener('resize', function() {
+        if (window.innerWidth >= 1024) {
+          closeMobileMenu();
+        }
+      });
+    });
+  </script>
 </body>
 </html>
