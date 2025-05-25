@@ -3,6 +3,10 @@ title: "Education Centre"
 description: "Learn about our Education Centre offering English language development and life skills training"
 ---
 
+## Education Centre Gallery
+
+{{< gallery images="education-centre/english-class-1.jpg,education-centre/english-class-2.jpg,education-centre/english-class-3.jpg,education-centre/english-class-4.jpg,education-centre/english-class-5.jpg,education-centre/playgroup.jpg,education-centre/youth-programme.jpg,education-centre/library-1.jpg,education-centre/library-2.jpg,education-centre/library-3.jpg,education-centre/debating-1.jpg,education-centre/debating-2.jpg" path="/images/" >}}
+
 ## ENGLISH LANGUAGE DEVELOPMENT
 **English classes** – Sixteen classes ranging in
 age from 6 to 19 years old. A formal,
@@ -37,7 +41,6 @@ promote confidence and understanding of
 local issues.
 
 ## LIFE SKILLS
-
 - Personal Hygiene
 - Environmental Awareness
 - Social Responsibility

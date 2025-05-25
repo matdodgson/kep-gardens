@@ -38,9 +38,19 @@ theme = 'kepgardens-custom'
     weight = 50
 
   [[menu.main]]
-    name = "Volunteers"
-    pageRef = "/volunteers"
+    name = "Volunteer Stories"
+    pageRef = "/volunteer-stories"
     weight = 60
+
+  [[menu.main]]
+    name = "Volunteer Information"
+    pageRef = "/volunteer-information"
+    weight = 65
+
+  [[menu.main]]
+    name = "Volunteer Accommodation"
+    pageRef = "/volunteer-accommodation"
+    weight = 65
 
   [[menu.main]]
     name = "Newsletters"

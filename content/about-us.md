@@ -3,6 +3,8 @@ title: "About Us"
 description: "Learn about Kep Gardens Association and our mission to support rural youth in Cambodia"
 ---
 
+![Kep Gardens Founders](/images/about-us/kep-gardens-founders.jpg)
+
 Kep Gardens was established in 2007.
 
 The vision of Kep Gardens was born in December,
