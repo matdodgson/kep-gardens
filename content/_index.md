@@ -5,7 +5,7 @@ description: "Welcome to KepGardens"
 
 # DISCOVER KEP GARDENS ASSOCIATION
 
-Kep Gardens is a community development project. It is
+Established in 2007, Kep Gardens is a community development project. It is
 a non-profit, non-government organization with no
 political or religious affiliations.
 Cambodians and Australians working together for a
@@ -29,15 +29,17 @@ activities of the school, its children, young adults and
 visitors alike, make for interesting and rewarding
 experiences.
 
-The first thing that struck us was how happy, at
+---
+
+*The first thing that struck us was how happy, at
 ease and comfortable the children are at Kep
 Gardens. Janine and Andrew have created a
 delightful atmosphere – the resources built up
 over time are impressive and the classrooms
 bright and colourful. It was wonderful to be able
-to contribute.
+to contribute.*
 
-The opportunity to work one-on-one with the
+*The opportunity to work one-on-one with the
 students – from number, colour and image
 recognition with the very small children, to
 reading through various levels for the primary
@@ -49,13 +51,15 @@ beneficial for their communication skills and
 understanding. Some of our favourite moments
 were of taking class 8 for conversation and
 learning about their lives and what they hope to
-do.
+do.*
 
-Anyone choosing to spend some time as a
+*Anyone choosing to spend some time as a
 volunteer at Kep Gardens will have a wonderful
 and rewarding time making a real difference to
 these lovely young people. You may be in a
 gap year or retired, stay for a week or months –
 you can be assured of a very warm welcome
 from Andrew and Janine and will have a time
-you will remember forever.
+you will remember forever.*
+
+*Helen and Becca, England/Australia, April 2019*

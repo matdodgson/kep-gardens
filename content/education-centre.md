@@ -36,7 +36,7 @@ Year 11 students organize and run the
 meetings.
 
 **Debating Teams** – a specific internal and
-inter-school Class 9 activity designed to
+inter-school older class activity designed to
 promote confidence and understanding of
 local issues.
 

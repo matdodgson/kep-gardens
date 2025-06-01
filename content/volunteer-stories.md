@@ -9,24 +9,6 @@ https://www.youtube.com/watch?v=5ecwZOITE8g
 
 ---
 
-Testimonial by Helen and Becca Mackinnon
-
-#### England/Australia, April, 2019
-
-![Helen and Becca](/images/volunteer-stories/helen-and-becca.jpeg)
-
-The first thing that struck us was how happy, at ease and comfortable the children are at Kep Gardens. Janine and Andrew have created a delightful atmosphere - the resources built up over time are impressive and the classrooms bright and colourful. It was wonderful to be able to contribute.
-
-The opportunity to work one on one with the students - from number, colour and image recognition with the very small children, to reading through various levels for the primary children, to conversations with those in classes 5&6 - was very special, and lots of fun. Being able to give intensive individual time to children to help them practice their English is so beneficial for their communication skills and understanding. Some of our favourite moments were of taking class 6 for conversation and learning about their lives and what they hope to do.
-
-Anyone choosing to spend some time as a volunteer at Kep Gardens will have a wonderful and rewarding time making a real difference to these lovely young people. You may be in a gap year or retired, stay for a week or months - you can be assured of a very warm welcome from Andrew and Janine and will have a time you will remember forever.
-
----
-
-Review of Kep Gardens Association by Matilde Carreira
-
-#### **Portugal, January 2019**
-
 ![Matilde](/images/volunteer-stories/matilde.jpg)
 
 **A love letter to Kep Gardens and Cambodia: sharing is caring**
@@ -56,11 +38,9 @@ See you one day my lovelies, wish you all the best,
 Yours truly,
 Matilde
 
+#### Matilde Carreira, Portugal, January 2019
+
 ---
-
-Review of Kep Gardens Association by Lori Mcleod-Goodroad
-
-### United States, January 2019
 
 Last day volunteering at Kep Gardens. I've thought for a long time how to describe Kep Gardens, but there is no description that could fully encompass everything that Janine and Andrew have developed. To describe it as an English school doesn't do it justice.
 
@@ -70,11 +50,9 @@ Volunteering was primarily spent one on one with kids working on conversation sk
 
 Thank you Janine and Andrew for the opportunity. I hope I added my brick.
 
+#### Lori Mcleod-Goodroad, United States, January 2019
+
 ---
-
-Review ofKep Gardens AssociationbyRuth van Caesbroeck
-
-### Belgium
 
 ![Ruth](/images/volunteer-stories/ruth.jpg)
 
@@ -83,11 +61,9 @@ Review ofKep Gardens AssociationbyRuth van Caesbroeck
 After 4 weeks of volunteering, I can say Kep Gardens was really like a second home for me. I enjoyed all parts of it!
 Every morning, you are woken by laughing and well-motivated cambodian kids who are screaming "good morning teacher"!!! The kids always brought a smile on my face. I felt very useful and I really liked the daily routine at this project. Also, there is a good balance between work and rest. I would recommend everyone to go to Kep Gardens. It's a well-structured project with a nice vision, lovely people and all of this in a wonderful green environment.
 
+#### Ruth van Caesbroeck, Belgium
+
 ---
-
-Review ofKep Gardens AssociationbyRosa Lambert
-
-### Belgium
 
 ![Rosa](/images/volunteer-stories/rosa.jpg)
 
@@ -97,11 +73,9 @@ I volunteered for 4 weeks in Kep Gardens. I've met lovely people, nice kids and 
 Rosa
 (Also, the food is really delicious!!!)
 
+#### Rosa Lambert, Belgium
+
 ---
-
-Review ofKep Gardens AssociationbyOrel Aivas
-
-### Israel
 
 ![Orel](/images/volunteer-stories/orel.jpg)
 
@@ -109,74 +83,60 @@ Review ofKep Gardens AssociationbyOrel Aivas
 
 I volunteered in Kep Gardens for two weeks during my trip and it was the most amazing experience I've ever had! Amazing attitude, always taking care of you there, the children are so polite and so charming that you just don't want the day will end!
 
----
-
-Reference Letters
-
-29 Sacramento St #2 Cambridge MA 02138
-
-10/12/2012
-
-To whom it may concern,
-
-I first encountered Kep Gardens in early 2012 on a trip studying the work of non-profit organizations in Cambodia. Of all the organizations we surveyed, Kep Gardens stood out for its integration with the community, its flexible and holistic approach, and the dedication of its staff to realizing its vision: bringing education to Cambodia's most vulnerable youths.
-
-Kep Gardens is a response to the most pressing development need in rural Cambodia: the absence of the knowledge, skills and contacts that would allow local people to benefit from the dollars flowing into the region. Through free training in English, hospitality, and other practical skills, the children in the community served by Kep Gardens are able to access the industries that provide the greatest opportunities in Cambodia today.
-
-Achieving these goals in the rural communities of Cambodia—in the context of extreme poverty, disease and a wide range of development issues—requires more than just running classes. This reality is reflected by Kep Gardens' flexible, holistic approach to education and community development. Kep Gardens' work has expanded to provide everything from life skills as basic as oral hygiene; accommodation for at-risk female students; access to modern medical care; and new agricultural and construction techniques to local workers.
-
-This ability to closely adapt to community needs as they arise has allowed Kep Gardens to become a trusted and respected institution. Locals regard it as a life-changing project that can, on the long-term, transform this disadvantaged and disconnected part of the world.
-
-I strongly believe in the value of Kep Gardens' work and cannot provide firmer endorsement for sponsorship.
-
-Reuben Finighan
-
-Fulbright Scholar
-
-Frank Knox Fellow
-
-Harvard Kennedy School
-
-Master of Public Policy candidate
-
-Email:   Reuben_Finighan@hks14.harvard.edu
+#### Orel Aivas, Israel
 
 ---
 
-*Kep Gardens has been part of the community of Kampong Tralach Village, Prey Thom Commune for 10 years.   Whilst the country continues on its strong growth path there are still people in the country areas who do not have access to skills training.   Kep Gardens provides this much needed education free-of-charge, targeting the underprivileged in their local community.*
+# Reference Letters
 
-*The English school has gained a highly respected reputation in the area as have the hospitality students working in local businesses.*
+*29 Sacramento St #2 Cambridge MA 02138*
 
-*The Cambodian Government and the local people value and appreciate the skills education Kep Gardens is providing and strongly support any fundraising programme they conduct to ensure the project continues to provide a high standard of training to our people.*
+*10/12/2012*
 
-*Prum Chamreun*
+*To whom it may concern,*
 
-*Deputy Governor, Kep*
+*I first encountered Kep Gardens in early 2012 on a trip studying the work of non-profit organizations in Cambodia. Of all the organizations we surveyed, Kep Gardens stood out for its integration with the community, its flexible and holistic approach, and the dedication of its staff to realizing its vision: bringing education to Cambodia's most vulnerable youths.*
 
-*Tel:   +855 12561956*
+*Kep Gardens is a response to the most pressing development need in rural Cambodia: the absence of the knowledge, skills and contacts that would allow local people to benefit from the dollars flowing into the region. Through free training in English, hospitality, and other practical skills, the children in the community served by Kep Gardens are able to access the industries that provide the greatest opportunities in Cambodia today.*
 
-*Email:   chamreunprum@yahoo.com*
+*Achieving these goals in the rural communities of Cambodia—in the context of extreme poverty, disease and a wide range of development issues—requires more than just running classes. This reality is reflected by Kep Gardens' flexible, holistic approach to education and community development. Kep Gardens' work has expanded to provide everything from life skills as basic as oral hygiene; accommodation for at-risk female students; access to modern medical care; and new agricultural and construction techniques to local workers.*
+
+*This ability to closely adapt to community needs as they arise has allowed Kep Gardens to become a trusted and respected institution. Locals regard it as a life-changing project that can, on the long-term, transform this disadvantaged and disconnected part of the world.*
+
+*I strongly believe in the value of Kep Gardens' work and cannot provide firmer endorsement for sponsorship.*
+
+*Reuben Finighan*
+
+*Fulbright Scholar*
+
+*Frank Knox Fellow*
+
+*Harvard Kennedy School*
+
+*Master of Public Policy candidate*
+
+*Email:   Reuben_Finighan@hks14.harvard.edu*
 
 ---
 
-October 12, 2012
+*October 12, 2012*
 
-Re:Letter of reference for   **Kep Gardens Association**
+*Re:Letter of reference for Kep Gardens Association*
 
-I have been working and living in Cambodia for the past 16 years, the last 11 in Kep Province. I worked for 6 years. After our final project, the Community Legal Education Center, was transferred to Cambodian management, I retired and moved to Kep. I have been a volunteer English teacher for monks at 2 Buddhist wats and for several groups of young civil service personnel.
+*I have been working and living in Cambodia for the past 16 years, the last 11 in Kep Province. I worked for 6 years. After our final project, the Community Legal Education Center, was transferred to Cambodian management, I retired and moved to Kep. I have been a volunteer English teacher for monks at 2 Buddhist wats and for several groups of young civil service personnel.*
 
-When I moved to Kep in 2001, there were almost no foreign language education or vocational training opportunities for children and young people in Kep, particularly young people from poor rural subsistence farming and fishing families. This resulted in very little in the way of employment opportunities by which they could earn a sustainable living and help their families improve their living standards. As Kep has been developing economically over the past decade, with a rapidly expanding tourism sector, the need for young people to acquire language and vocational skills has become critical.
+*When I moved to Kep in 2001, there were almost no foreign language education or vocational training opportunities for children and young people in Kep, particularly young people from poor rural subsistence farming and fishing families. This resulted in very little in the way of employment opportunities by which they could earn a sustainable living and help their families improve their living standards. As Kep has been developing economically over the past decade, with a rapidly expanding tourism sector, the need for young people to acquire language and vocational skills has become critical.*
 
-I became acquainted with Janine and Andrew Judd and their work at Kep Gardens about 3 years ago. They are actively committed to providing the young people from the villages around Kep Gardens with opportunities to develop their skills through language, educational support and vocational training. They have very sensibly developed projects at Kep Gardens based on the assessed needs of the village families and individual students and which are suited to the local environment and developmental progress. They and the Kep Garden staff then work diligently to ensure that a project is solidly established and stabilized before moving on to the next stage or initiating a new project.
+*I became acquainted with Janine and Andrew Judd and their work at Kep Gardens about 3 years ago. They are actively committed to providing the young people from the villages around Kep Gardens with opportunities to develop their skills through language, educational support and vocational training. They have very sensibly developed projects at Kep Gardens based on the assessed needs of the village families and individual students and which are suited to the local environment and developmental progress. They and the Kep Garden staff then work diligently to ensure that a project is solidly established and stabilized before moving on to the next stage or initiating a new project.*
 
-Kep Gardens is one of the few organizations that provides free English language, hospitality services, vocational skills and agricultural training to children of rural village families in the area. For each young person participating in one or more of the Kep Garden projects, this means an opportunity for a future they could otherwise only dream about – to become employable, make a decent living and develop their interests and potential. Kep Gardens has a positive impact, not just on the individual young people, but on their families and their local communities.
+*Kep Gardens is one of the few organizations that provides free English language, hospitality services, vocational skills and agricultural training to children of rural village families in the area. For each young person participating in one or more of the Kep Garden projects, this means an opportunity for a future they could otherwise only dream about – to become employable, make a decent living and develop their interests and potential. Kep Gardens has a positive impact, not just on the individual young people, but on their families and their local communities.*
 
-It is very difficult to fund and operate a small scale, local organization like Kep Gardens. Most donors emphasize broad programs on a regional or national scale and remain largely urban-based. That typically results in very little benefit trickling down to the 80% of Cambodians living in rural areas.
+*It is very difficult to fund and operate a small scale, local organization like Kep Gardens. Most donors emphasize broad programs on a regional or national scale and remain largely urban-based. That typically results in very little benefit trickling down to the 80% of Cambodians living in rural areas.*
 
-The work of Kep Gardens, on the other hand, focuses on the positive impact on the present and futures of the individual young rural people, their families and their villages.
+*The work of Kep Gardens, on the other hand, focuses on the positive impact on the present and futures of the individual young rural people, their families and their villages.*
 
-Janet K. King
+*Janet K. King*
 
-Resident, Kep Village
+*Resident, Kep Village*
 
-Kep Province, Cambodia
+*Kep Province, Cambodia*

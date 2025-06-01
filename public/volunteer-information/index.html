@@ -126,6 +126,13 @@
         </li>
       
         <li>
+          <a href="/volunteer-information/" 
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 text-green-600 bg-green-50 border-r-4 border-green-600">
+            Volunteer Information
+          </a>
+        </li>
+      
+        <li>
           <a href="/volunteer-accommodation/" 
              class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
             Volunteer Accommodation
@@ -133,9 +140,9 @@
         </li>
       
         <li>
-          <a href="/volunteer-information/" 
-             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 text-green-600 bg-green-50 border-r-4 border-green-600">
-            Volunteer Information
+          <a href="/achievements/" 
+             class="block px-3 lg:px-4 py-2 lg:py-3 text-gray-700 hover:text-green-600 hover:bg-green-50 rounded-lg font-medium transition-all duration-200 ">
+            Achievements
           </a>
         </li>
       
@@ -214,10 +221,6 @@
         
     
         
-            
-        
-    
-        
     
         
     
@@ -248,309 +251,162 @@
     
 
 
-<h1  class="h3"  id="volunteer-information" >
+<h1  class="h4"  id="volunteer-information" >
     Volunteer Information
-</h1> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-    
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-
-
-<h2  class="h4"  id="volunteer-gallery" >
-    Volunteer Gallery
-</h2> <div class="gallery"><div class="gallery-item">
-      <a href="/images/volunteer-information/daniel.jpg" data-lightbox="gallery">
-        <img src="/images/volunteer-information/daniel.jpg" alt="Gallery image" loading="lazy">
-      </a>
-    </div><div class="gallery-item">
-      <a href="/images/volunteer-information/oriel.jpg" data-lightbox="gallery">
-        <img src="/images/volunteer-information/oriel.jpg" alt="Gallery image" loading="lazy">
-      </a>
-    </div><div class="gallery-item">
-      <a href="/images/volunteer-information/volunteer-group.jpg" data-lightbox="gallery">
-        <img src="/images/volunteer-information/volunteer-group.jpg" alt="Gallery image" loading="lazy">
-      </a>
-    </div></div>
-
-<style>
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1rem;
-  margin: 2rem 0;
-}
-
-.gallery-item {
-  position: relative;
-  overflow: hidden;
-  border-radius: 8px;
-  transition: transform 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.gallery-item:hover {
-  transform: scale(1.05);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-}
-
-.gallery-item img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  display: block;
-}
-
-.gallery-item a {
-  text-decoration: none;
-}
-</style>
-
-<script>
-
-document.addEventListener('DOMContentLoaded', function() {
-  const galleryLinks = document.querySelectorAll('[data-lightbox="gallery"]');
-  
-  galleryLinks.forEach(function(link) {
-    link.addEventListener('click', function(e) {
-      e.preventDefault();
-      
-      
-      const overlay = document.createElement('div');
-      overlay.style.cssText = `
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.9);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 9999;
-        cursor: pointer;
-      `;
-      
-      
-      const img = document.createElement('img');
-      img.src = this.href;
-      img.style.cssText = `
-        max-width: 90%;
-        max-height: 90%;
-        object-fit: contain;
-        border-radius: 8px;
-      `;
-      
-      overlay.appendChild(img);
-      document.body.appendChild(overlay);
-      
-      
-      overlay.addEventListener('click', function() {
-        document.body.removeChild(overlay);
-      });
-      
-      
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape') {
-          if (document.body.contains(overlay)) {
-            document.body.removeChild(overlay);
-          }
-        }
-      });
-    });
-  });
-});
-</script> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-    
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-
-
-<h4  class="h6"  id="thinking-of-volunteering-contact-us-" >
-    THINKING OF VOLUNTEERING? CONTACT US ⇒ <a href="mailto:kepgardens513@gmail.com">kepgardens513@gmail.com</a>
-</h4> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-    
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-
-
-<h2  class="h4"  id="individual-volunteer-guidelines" >
-    Individual volunteer guidelines
-</h2> <p>Most volunteers live at Kep Gardens for varying lengths of time.  Volunteering is not only about Kep Gardens&rsquo; students benefiting from their commitment and desire to help others.  The volunteers themselves gain much:  tolerance and understanding of other cultures; the younger ones grow into adulthood, become independent.  Volunteers are not always young students in their gap year between studies.  Many that come to Kep Gardens are older: some looking to decide what they would like to do when they retire; others fulfilling a dream of volunteering overseas and in retirement have finally found the time; others on a long trip and want to put down some roots for a period of time and have a chance to get to know the local people.  Many, many reasons why people volunteer; many, many age groups represented. But rest assured all are highly valued for their skills and experience that they pass on to our students and staff.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-    
-    
-
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-
-
-<h3  class="h5"  id="volunteer-requirements" >
-    Volunteer requirements
-</h3> <ul>
-<li>Whilst visitors are always welcome, our structured programme caters for volunteers wishing to spend 1 day to many months.</li>
-<li>We request that when you contact by email you include a brief statement outlining your expectations.</li>
-</ul>
-<p>Kep Gardens welcomes you into our family. We are looking forward to your visit. We have put together a few points for you to understand our expectations of your volunteer work and the living conditions you will encounter.</p>
-<p>Our English school has been running since 2008. We run a 47-week curriculum that concentrates on the correct pronunciation, grammar, reading, and conversation for English. We hold 13 classes each day from Monday to Friday. Students&rsquo; ages range from 5 years old to late teens.  Class sizes vary from the smallest 25 to 33 the largest. We also run a Playgroup for children aged 2-4 years and a Kindergarten for children aged 4-6, five mornings a week.</p>
+</h1> <p>Volunteering at Kep Gardens is an educational, fun and valued experience.  Come for a day or for as long as you like.  Our formal programme is structured to allow flexibility as do our accommodation facilities.</p>
+<p>Kep Gardens welcomes you into our family.  We are looking forward to your visit.  We have put together a few points for you to understand about our expectations of your volunteer work and the living conditions you will encounter.</p>
+<p>Our English school has been running since 2008.  We run a 45 week curriculum that concentrates on the correct pronunciation, grammar, reading and conversation for English.  We hold 16 classes each day from Monday to Friday.  Students’ ages range from 6 –18 years old.  Class sizes are 25 for younger classes and up to 30 students in the older classes.  We also have a Playgroup and Kindergarten each morning, ages ranging from 3 – 5.  Life skills also play a very important part in our curriculum.</p>
 <ul>
-<li>School hours are from 8.00–10.00 am, 2.00–5.00 pm and 5.15-8.15 pm five days a week with additional time needed for preparation if taking classes.  Volunteers who are living at Kep Gardens to choose at least 6 hours per day for them to be of value to our programme.  We welcome volunteers from outside who are able to give a couple of hours of their time.</li>
-<li>From Monday to Friday we ask you to dress appropriately for a school environment. Please respect the Cambodian culture and dress conservatively and modestly.</li>
+<li>Our Child Protection Policy requires a recent police report.</li>
+<li>Volunteers are asked to choose which sessions they would like to work:  8.00-10.00 am young children; 2.00-5.00 pm primary school children; 5.15-8.15 pm high school students, five days a week, but should allow additional time for preparation if teaching in the classroom.</li>
+<li>The majority of the volunteer work is a one-on-basis which gives volunteers a chance to chat and get to know students individually.</li>
+<li>From Monday to Friday we ask you to dress appropriately for a school environment.  Please respect the Cambodian culture and dress conservatively and modestly.</li>
 <li>Please ensure you are never alone with a student and can be openly seen at all times.</li>
-<li>Kep Gardens is a non-government organization with no religious or political affiliations. Please do not discuss your religious or political beliefs with the students.</li>
-<li>Please don&rsquo;t show favourites. All Kep Gardens students are treated equally.</li>
-<li>Volunteers must have a good command of the English language and be able to follow a set curriculum.</li>
-<li>We have very structured rules and regulations for the good of the school – volunteers must abide by these.</li>
+<li>Keo Gardens is a non-government organization with no religious or political affiliations.  Please do not discuss your religious or political beliefs with the students.</li>
+<li>Please don’t show favourites.  All Kep Gardens students are treated equally.</li>
+<li>Volunteers must have a good command of the English language and be able to follow a set curriculum. We have very structured rules and regulations for the good of the school – volunteers must abide by these.</li>
 </ul>
-<p><strong>Handy Tips</strong></p>
-<ul>
-<li>Don&rsquo;t pat anyone on the head. This is offensive to Buddhists.</li>
-<li>Don&rsquo;t touch a monk.  We occasionally have several monks scattered throughout our classes.</li>
-<li>To open your mind to learning about Cambodian culture spend some spare time interacting with the students and staff at Kep Gardens. You will go home a richer person with a warm feeling in your heart.</li>
-<li>Villagers dress conservatively, and though they will expect foreigners to dress differently, girls will get stared at if they wear &ldquo;short&rdquo; shorts (knee-length is fine) and strappy tops.</li>
-<li>Bring hats to wear during the day but never wear them inside or into a pagoda.</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+
+
+<h3  class="h6"  id="handy-tips" >
+    Handy Tips
+</h3> <ul>
+<li>Don’t pat anyone on the head.  This is offensive to Buddhists.</li>
+<li>Don’t touch a monk.  We sometimes have monks in our classes.</li>
+<li>To open your mind to learning about Cambodian culture, spend some spare time interacting with the students and staff at Kep Gardens.  You will go home a richer person with a warm feeling in your heart.</li>
+<li>Villagers dress traditionally and conservatively, and though they will expect foreigners to dress differently, you will get stared at if you wear “short” shorts (knee length is fine) and strappy tops. Bring hats to wear during the day but never wear them inside or in a pagoda.</li>
 </ul>
-<p><strong>Weekends and spare time activities</strong></p>
-<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+
+
+<h3  class="h6"  id="weekends-and-spare-time-activities" >
+    Weekends and Spare time Activities
+</h3> <ul>
 <li>Kep Gardens is situated at the northern entrance to the Kep National Park.</li>
-<li>We conduct village tours, jungle treks, and local pagoda visits at a small cost of $2 per person.</li>
-<li>A nearby guest house allows our volunteers to use their swimming pool.</li>
-<li>The town of Kep is 10 km away, Rabbit Island is off the coast of Kep and Kampot is 20 km away, all of which are ideal weekend getaways.</li>
-<li>Volunteers may like to visit the pepper plantations and caves which are a tuk-tuk ride away.</li>
-<li>A tuk-tuk is available for hire.</li>
+<li>We conduct village tours and local pagoda visits and request a small donation of $2.</li>
+<li>The town of Kep is 10 kms away, Rabbit Island is off the coast of Kep and Kampot is 20 kms away, all of which are ideal weekend getaways.</li>
+<li>Volunteers may like to visit the national park, pepper plantations and caves which are only a tuktuk ride away.</li>
+<li>Tuktuk hire can be arranged.</li>
 <li>Hire of a motorcycle can be arranged.</li>
 </ul>
-<p><strong>How to apply</strong></p>
-<p>If you are interested please send us an email with your name, details of interests, dates available and contact information and a brief statement outlining your expectations. We will respond within a few days. Thank you for your interest!</p>
-<p>email: <a href="mailto:kepgardens513@gmail.com">kepgardens513@gmail.com</a></p>
-<p>You may also apply through <a href="https://www.givingway.com/organization/kep-gardens-association/?context=apply">Givingway</a>, a volunteer organization that we are affiliated with.</p>
-<p><strong>ENJOY YOUR STAY AT KEP GARDENS</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+
+
+<h3  class="h6"  id="do-you-want-to-see-first-hand-and-learn-about-traditional-khmer-village-life" >
+    DO YOU WANT TO SEE FIRST HAND AND LEARN ABOUT TRADITIONAL KHMER VILLAGE LIFE?
+</h3> <ul>
+<li>Village walk and home visit.</li>
+<li>Listening to stories told by older people who survived the Pol Pot regime.</li>
+<li>Visit the local Phnom Prous Pagoda.</li>
+<li>Presentation by Class 8 on various Cambodian topics   - great public speaking experience for the students.</li>
+<li>Khmer dancing presented by younger and older groups of students.</li>
+</ul>
 
     </div>
     

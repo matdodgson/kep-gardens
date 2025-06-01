@@ -50,7 +50,12 @@ theme = 'kepgardens-custom'
   [[menu.main]]
     name = "Volunteer Accommodation"
     pageRef = "/volunteer-accommodation"
-    weight = 65
+    weight = 70
+
+  [[menu.main]]
+    name = "Achievements"
+    pageRef = "/achievements"
+    weight = 75
 
   [[menu.main]]
     name = "Newsletters"
