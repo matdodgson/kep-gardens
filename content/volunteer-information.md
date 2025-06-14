@@ -16,7 +16,7 @@ Our English school has been running since 2008.  We run a 45 week curriculum tha
 - The majority of the volunteer work is a one-on-basis which gives volunteers a chance to chat and get to know students individually.
 - From Monday to Friday we ask you to dress appropriately for a school environment.  Please respect the Cambodian culture and dress conservatively and modestly.
 - Please ensure you are never alone with a student and can be openly seen at all times.
-- Keo Gardens is a non-government organization with no religious or political affiliations.  Please do not discuss your religious or political beliefs with the students.
+- Kep Gardens is a non-government organization with no religious or political affiliations.  Please do not discuss your religious or political beliefs with the students.
 - Please don’t show favourites.  All Kep Gardens students are treated equally.
 - Volunteers must have a good command of the English language and be able to follow a set curriculum. We have very structured rules and regulations for the good of the school – volunteers must abide by these.
 

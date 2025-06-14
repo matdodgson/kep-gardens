@@ -4,6 +4,11 @@ description: "Join our volunteer program and make a meaningful difference in the
 ---
 
 # Volunteer Accommodation and Facilities
+
+## Accommodation Gallery
+
+{{< gallery images="volunteer-accommodation/outside.JPG,volunteer-accommodation/inside-1.jpg,volunteer-accommodation/inside-2.jpg,volunteer-accommodation/canteen.JPG" path="/images/" >}}
+
 - A donation of $5 per day per room applies.  If you stay elsewhere on the weekends, we will keep your possessions in      your room.
 - Volunteers stay in a room with an ensuite bathroom, fan, mosquito net, linen and towels provided.  This room may be shared depending on the number of volunteers.
 - A kitchen is available for use.  You are welcome to join staff members for a Khmer lunch at a cost of $2.  Deliveries of evening meals can be arranged.

@@ -43,7 +43,7 @@
         <a href="/" class="flex items-center">
           <img src="/kep-gardens-logo.png" 
                alt="KepGardens Logo" 
-               class="h-8 w-auto mr-3">
+               class="h-24 w-auto mr-3">
           <span class="text-lg font-bold text-green-600">KepGardens</span>
         </a>
         <button id="mobile-menu-toggle" class="p-2 text-gray-600 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-green-500 rounded-md">
@@ -68,7 +68,7 @@
       <a href="/" class="block">
         <img src="/kep-gardens-logo.png" 
              alt="KepGardens Logo" 
-             class="w-auto max-w-full object-contain h-16 lg:h-auto">
+             class="w-auto max-w-full object-contain h-24 lg:h-auto">
       </a>
     </div>
     
@@ -220,6 +220,8 @@
             
         
     
+        
+    
 
     
 
@@ -245,9 +247,155 @@
     
 
 
-<h1  class="h6"  id="volunteer-accommodation-and-facilities" >
+<h1  class="h5"  id="volunteer-accommodation-and-facilities" >
     Volunteer Accommodation and Facilities
-</h1> <ul>
+</h1> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+
+
+<h2  class="h6"  id="accommodation-gallery" >
+    Accommodation Gallery
+</h2> <div class="gallery"><div class="gallery-item">
+      <a href="/images/volunteer-accommodation/outside.JPG" data-lightbox="gallery">
+        <img src="/images/volunteer-accommodation/outside.JPG" alt="Gallery image" loading="lazy">
+      </a>
+    </div><div class="gallery-item">
+      <a href="/images/volunteer-accommodation/inside-1.jpg" data-lightbox="gallery">
+        <img src="/images/volunteer-accommodation/inside-1.jpg" alt="Gallery image" loading="lazy">
+      </a>
+    </div><div class="gallery-item">
+      <a href="/images/volunteer-accommodation/inside-2.jpg" data-lightbox="gallery">
+        <img src="/images/volunteer-accommodation/inside-2.jpg" alt="Gallery image" loading="lazy">
+      </a>
+    </div><div class="gallery-item">
+      <a href="/images/volunteer-accommodation/canteen.JPG" data-lightbox="gallery">
+        <img src="/images/volunteer-accommodation/canteen.JPG" alt="Gallery image" loading="lazy">
+      </a>
+    </div></div>
+
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-item a {
+  text-decoration: none;
+}
+</style>
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  const galleryLinks = document.querySelectorAll('[data-lightbox="gallery"]');
+  
+  galleryLinks.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      
+      const overlay = document.createElement('div');
+      overlay.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.9);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+        cursor: pointer;
+      `;
+      
+      
+      const img = document.createElement('img');
+      img.src = this.href;
+      img.style.cssText = `
+        max-width: 90%;
+        max-height: 90%;
+        object-fit: contain;
+        border-radius: 8px;
+      `;
+      
+      overlay.appendChild(img);
+      document.body.appendChild(overlay);
+      
+      
+      overlay.addEventListener('click', function() {
+        document.body.removeChild(overlay);
+      });
+      
+      
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+          if (document.body.contains(overlay)) {
+            document.body.removeChild(overlay);
+          }
+        }
+      });
+    });
+  });
+});
+</script> 
+<ul>
 <li>A donation of $5 per day per room applies.  If you stay elsewhere on the weekends, we will keep your possessions in      your room.</li>
 <li>Volunteers stay in a room with an ensuite bathroom, fan, mosquito net, linen and towels provided.  This room may be shared depending on the number of volunteers.</li>
 <li>A kitchen is available for use.  You are welcome to join staff members for a Khmer lunch at a cost of $2.  Deliveries of evening meals can be arranged.</li>
