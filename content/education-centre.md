@@ -54,3 +54,5 @@ local issues.
 - Sporting Competitions
 - Parent Workshops
 - Entertainment
+
+![Life Skills](/images/education-centre/life-skills.png)

@@ -42,6 +42,8 @@ Matilde
 
 ---
 
+![Lori](/images/volunteer-stories/lori.jpeg)
+
 Last day volunteering at Kep Gardens. I've thought for a long time how to describe Kep Gardens, but there is no description that could fully encompass everything that Janine and Andrew have developed. To describe it as an English school doesn't do it justice.
 
 Kep Gardens is located in the Kampong Tralach village outside of Kep, Cambodia. Children ages 1-4 have playgroup, there is a kindergarten class, reception classes, and 6 levels of English classes for ages 5-20+. They offer life skills classes for students and parents on topics like personal hygiene, social responsibility, drug awareness, road safety and child protection. The students participate in drama classes, debate team competitions, traditional dancing, football (soccer) and volleyball.
