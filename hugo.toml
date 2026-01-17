@@ -1,11 +1,11 @@
 baseURL = 'https://kepgardens.com/'
 languageCode = 'en-us'
-title = 'KepGardens'
+title = 'Kep Gardens'
 theme = 'kepgardens-custom'
 
 [params]
   description = "Kep Gardens is a community development project. A non-profit, non-government organization with no political or religious affiliations. Cambodians and Australians working together for a brighter future."
-  author = "KepGardens Team"
+  author = "Kep Gardens Team"
   
   [params.social]
     youtube = "https://www.youtube.com/@kepgardensassociation3207"
