@@ -14,6 +14,10 @@ customized English-based curriculum based
 on Jolly Phonics, developed to meet the
 needs of the student population.
 
+**Khmer Language classes** – morning and
+evening classes to help students struggling
+with their own language.
+
 **Playgroup** – for children 3-4 years old to
 encourage a love of reading together with
 motor and social skills.
@@ -28,17 +32,14 @@ one reading and conversation opportunities.
 **Library** – English and Khmer books available
 for student use.
 
-**Leadership Through English** – an activity for
-Year 10 and 11 students to enhance their
-leadership, communication, conflict solving,
-decision making and responsibility skills.
-Year 11 students organize and run the
-meetings.
-
 **Debating Teams** – a specific internal and
 inter-school older class activity designed to
 promote confidence and understanding of
 local issues.
+
+**Student Presentations** – presentations to
+volunteers and visitors giving them
+information about Cambodia.
 
 ## LIFE SKILLS
 - Personal Hygiene
@@ -49,10 +50,10 @@ local issues.
 - Road Safety
 - Child Protection
 - Drug Awareness
-- Drama Classes
+- Khmer Culture
+- Critical Thinking
 - Water Safety
 - Sporting Competitions
 - Parent Workshops
-- Entertainment
 
 ![Life Skills](/images/education-centre/life-skills.png)

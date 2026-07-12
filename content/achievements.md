@@ -10,7 +10,7 @@ title: "Achievements"
 
 <img src="/images/achievements/kindergarten-teacher.png" alt="Kindergarten Teacher" style="max-width: 100%; height: auto; margin: 1rem auto; display: block;">
 
-"Since 2009, Kep Gardens to me is a home, a famiN helping each other and a world of sharing love, knowledge, and peace." 
+"Since 2009, Kep Gardens to me is a home, a family helping each other and a world of sharing love, knowledge, and peace." 
 
 </div>
 

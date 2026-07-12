@@ -3,13 +3,16 @@ title: "Donate"
 description: "Support Kep Gardens Association and help us transform lives through education and vocational training"
 ---
 
-![Global Development Group](/images/donate/gdg-logo.png)
+![EDGE Worldwide](/images/donate/edge-worldwide-logo.png)
 
-Global Development Group not only provide tax deductible receipts for donations but also provide support for their members in many varied ways. 
+If anyone is seeking a tax deductible receipt for donations to Kep Gardens, please use the following:
 
-<a href="https://globaldevelopmentgroup.org/au/projects/j674n-kep-gardens-community-project" target="_blank" rel="noopener noreferrer">Click here to go to Global Development Group to ensure a tax deductible receipt for your donation or sponsorship</a>
+**Bank:** ANZ  
+**Account Name:** EDGE Worldwide  
+**BSB:** 013011  
+**Account No:** 659385738
 
-Don't forget, tax deductible donations can be paid through GDG Project J674N.
+EDGE Worldwide proudly supports Kep Gardens and its educational impact in the surrounding community. EDGE, which stands for Educational Growth and Empowerment, is an Australian-registered charity with the Australian Charities and Not-for-profits Commission and holds Deductible Gift Recipient (DGR) status, enabling communities, and creating pathways to opportunity, with Kep Gardens representing a key example of this impact, delivering accessible learning, vocational development, and ongoing support that empowers individuals and contributes to long-term community growth.
 
 ---
 
