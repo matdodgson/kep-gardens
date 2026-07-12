@@ -16,6 +16,23 @@ EDGE Worldwide proudly supports Kep Gardens and its educational impact in the su
 
 ---
 
+#### Make a direct donation into our bank account
+
+Australia  
+Commonwealth Bank  
+BSB:  065-116  
+Account Name:  Kep Gardens  
+Account No:  1015 8168
+
+Cambodia  
+Acleda Bank Plc  
+Branch:  Kampot  
+Account Name:  Kep Gardens Association  
+Account No:  0700-20-985580-17  
+Swift Code:  ACLBKHPP
+
+---
+
 #### Donate with PayPal
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd"
