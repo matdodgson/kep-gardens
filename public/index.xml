@@ -2,381 +2,395 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to KepGardens on Kep Gardens</title>
-    <link>https://kepgardens.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to KepGardens on Kep Gardens</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kepgardens.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>July 2026 Newsletter</title>
+      <link>http://localhost:1313/newsletters/2026-07-july/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletters/2026-07-july/</guid>
+      <description>Kep Gardens community updates and highlights for July 2026</description>
+    </item>
+    <item>
+      <title>April 2026 Newsletter</title>
+      <link>http://localhost:1313/newsletters/2026-04-april/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletters/2026-04-april/</guid>
+      <description>Kep Gardens community updates and highlights for April 2026</description>
+    </item>
     <item>
       <title>December 2025 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2025-12-december/</link>
+      <link>http://localhost:1313/newsletters/2025-12-december/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2025-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2025-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2025</description>
     </item>
     <item>
       <title>July 2025 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2025-07-july/</link>
+      <link>http://localhost:1313/newsletters/2025-07-july/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2025-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2025-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2025</description>
     </item>
     <item>
       <title>April 2025 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2025-04-april/</link>
+      <link>http://localhost:1313/newsletters/2025-04-april/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2025-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2025-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2025</description>
     </item>
     <item>
       <title>December 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-12-december/</link>
+      <link>http://localhost:1313/newsletters/2024-12-december/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2024-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2024</description>
     </item>
     <item>
       <title>July 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-07-july/</link>
+      <link>http://localhost:1313/newsletters/2024-07-july/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2024-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2024</description>
     </item>
     <item>
       <title>April 2024 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2024-04-april/</link>
+      <link>http://localhost:1313/newsletters/2024-04-april/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2024-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2024-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2024</description>
     </item>
     <item>
       <title>December 2023 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2023-12-december/</link>
+      <link>http://localhost:1313/newsletters/2023-12-december/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2023-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2023-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2023</description>
     </item>
     <item>
       <title>May 2023 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2023-05-may/</link>
+      <link>http://localhost:1313/newsletters/2023-05-may/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2023-05-may/</guid>
+      <guid>http://localhost:1313/newsletters/2023-05-may/</guid>
       <description>Kep Gardens community updates and highlights for May 2023</description>
     </item>
     <item>
       <title>December 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-12-december/</link>
+      <link>http://localhost:1313/newsletters/2022-12-december/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2022-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2022</description>
     </item>
     <item>
       <title>July 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-07-july/</link>
+      <link>http://localhost:1313/newsletters/2022-07-july/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2022-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2022</description>
     </item>
     <item>
       <title>March 2022 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2022-03-march/</link>
+      <link>http://localhost:1313/newsletters/2022-03-march/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2022-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2022-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2022</description>
     </item>
     <item>
       <title>November 2021 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2021-11-november/</link>
+      <link>http://localhost:1313/newsletters/2021-11-november/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2021-11-november/</guid>
+      <guid>http://localhost:1313/newsletters/2021-11-november/</guid>
       <description>Kep Gardens community updates and highlights for November 2021</description>
     </item>
     <item>
       <title>April 2021 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2021-04-april/</link>
+      <link>http://localhost:1313/newsletters/2021-04-april/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2021-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2021-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2021</description>
     </item>
     <item>
       <title>December 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-12-december/</link>
+      <link>http://localhost:1313/newsletters/2020-12-december/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2020-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2020</description>
     </item>
     <item>
       <title>September 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-09-september/</link>
+      <link>http://localhost:1313/newsletters/2020-09-september/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2020-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2020</description>
     </item>
     <item>
       <title>June 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-06-june/</link>
+      <link>http://localhost:1313/newsletters/2020-06-june/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2020-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2020</description>
     </item>
     <item>
       <title>March 2020 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2020-03-march/</link>
+      <link>http://localhost:1313/newsletters/2020-03-march/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2020-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2020-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2020</description>
     </item>
     <item>
       <title>December 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-12-december/</link>
+      <link>http://localhost:1313/newsletters/2019-12-december/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2019-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2019</description>
     </item>
     <item>
       <title>September 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-09-september/</link>
+      <link>http://localhost:1313/newsletters/2019-09-september/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2019-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2019</description>
     </item>
     <item>
       <title>April 2019 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2019-04-april/</link>
+      <link>http://localhost:1313/newsletters/2019-04-april/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2019-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2019-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2019</description>
     </item>
     <item>
       <title>October 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-10-october/</link>
+      <link>http://localhost:1313/newsletters/2018-10-october/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-10-october/</guid>
+      <guid>http://localhost:1313/newsletters/2018-10-october/</guid>
       <description>Kep Gardens community updates and highlights for October 2018</description>
     </item>
     <item>
       <title>June 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-06-june/</link>
+      <link>http://localhost:1313/newsletters/2018-06-june/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2018-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2018</description>
     </item>
     <item>
       <title>March 2018 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2018-03-march/</link>
+      <link>http://localhost:1313/newsletters/2018-03-march/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2018-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2018-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2018</description>
     </item>
     <item>
       <title>December 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-12-december/</link>
+      <link>http://localhost:1313/newsletters/2017-12-december/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2017-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2017</description>
     </item>
     <item>
       <title>September 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-09-september/</link>
+      <link>http://localhost:1313/newsletters/2017-09-september/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2017-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2017</description>
     </item>
     <item>
       <title>June 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-06-june/</link>
+      <link>http://localhost:1313/newsletters/2017-06-june/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2017-06-june/</guid>
       <description>Kep Gardens community updates and highlights for June 2017</description>
     </item>
     <item>
       <title>March 2017 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2017-03-march/</link>
+      <link>http://localhost:1313/newsletters/2017-03-march/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2017-03-march/</guid>
+      <guid>http://localhost:1313/newsletters/2017-03-march/</guid>
       <description>Kep Gardens community updates and highlights for March 2017</description>
     </item>
     <item>
       <title>December 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-12-december/</link>
+      <link>http://localhost:1313/newsletters/2016-12-december/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2016-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2016</description>
     </item>
     <item>
       <title>September 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-09-september/</link>
+      <link>http://localhost:1313/newsletters/2016-09-september/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2016-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2016</description>
     </item>
     <item>
       <title>August 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-08-august/</link>
+      <link>http://localhost:1313/newsletters/2016-08-august/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-08-august/</guid>
+      <guid>http://localhost:1313/newsletters/2016-08-august/</guid>
       <description>Kep Gardens community updates and highlights for August 2016</description>
     </item>
     <item>
       <title>June 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-06-june/</link>
+      <link>http://localhost:1313/newsletters/2016-06-june/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-06-june/</guid>
+      <guid>http://localhost:1313/newsletters/2016-06-june/</guid>
       <description>Special campaign newsletter highlighting Kep Gardens fundraising initiatives</description>
     </item>
     <item>
       <title>May 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-05-may/</link>
+      <link>http://localhost:1313/newsletters/2016-05-may/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-05-may/</guid>
+      <guid>http://localhost:1313/newsletters/2016-05-may/</guid>
       <description>Kep Gardens community updates and highlights for May 2016</description>
     </item>
     <item>
       <title>February 2016 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2016-02-february/</link>
+      <link>http://localhost:1313/newsletters/2016-02-february/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2016-02-february/</guid>
+      <guid>http://localhost:1313/newsletters/2016-02-february/</guid>
       <description>Kep Gardens community updates and highlights for February 2016</description>
     </item>
     <item>
       <title>December 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-12-december/</link>
+      <link>http://localhost:1313/newsletters/2015-12-december/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-12-december/</guid>
+      <guid>http://localhost:1313/newsletters/2015-12-december/</guid>
       <description>Kep Gardens community updates and highlights for December 2015</description>
     </item>
     <item>
       <title>September 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-09-september/</link>
+      <link>http://localhost:1313/newsletters/2015-09-september/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-09-september/</guid>
+      <guid>http://localhost:1313/newsletters/2015-09-september/</guid>
       <description>Kep Gardens community updates and highlights for September 2015</description>
     </item>
     <item>
       <title>July 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-07-july/</link>
+      <link>http://localhost:1313/newsletters/2015-07-july/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2015-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2015</description>
     </item>
     <item>
       <title>April 2015 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2015-04-april/</link>
+      <link>http://localhost:1313/newsletters/2015-04-april/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2015-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2015-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2015</description>
     </item>
     <item>
       <title>October 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-10-october/</link>
+      <link>http://localhost:1313/newsletters/2014-10-october/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-10-october/</guid>
+      <guid>http://localhost:1313/newsletters/2014-10-october/</guid>
       <description>Kep Gardens community updates and highlights for October 2014</description>
     </item>
     <item>
       <title>July 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-07-july/</link>
+      <link>http://localhost:1313/newsletters/2014-07-july/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-07-july/</guid>
+      <guid>http://localhost:1313/newsletters/2014-07-july/</guid>
       <description>Kep Gardens community updates and highlights for July 2014</description>
     </item>
     <item>
       <title>April 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-04-april/</link>
+      <link>http://localhost:1313/newsletters/2014-04-april/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-04-april/</guid>
+      <guid>http://localhost:1313/newsletters/2014-04-april/</guid>
       <description>Kep Gardens community updates and highlights for April 2014</description>
     </item>
     <item>
       <title>January 2014 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2014-01-january/</link>
+      <link>http://localhost:1313/newsletters/2014-01-january/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2014-01-january/</guid>
+      <guid>http://localhost:1313/newsletters/2014-01-january/</guid>
       <description>Kep Gardens community updates and highlights for January 2014</description>
     </item>
     <item>
       <title>November 2011 Newsletter</title>
-      <link>https://kepgardens.com/newsletters/2011-11-november/</link>
+      <link>http://localhost:1313/newsletters/2011-11-november/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/newsletters/2011-11-november/</guid>
+      <guid>http://localhost:1313/newsletters/2011-11-november/</guid>
       <description>Kep Gardens community updates and highlights for November 2011</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://kepgardens.com/about-us/</link>
+      <link>http://localhost:1313/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/about-us/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kepgardens.com/images/about-us/kep-gardens-founders.jpg&#34; alt=&#34;Kep Gardens Founders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kep Gardens was established in 2007.&lt;/p&gt;&#xA;&lt;p&gt;The vision of Kep Gardens was born in December,&#xA;2006 after a holiday in Cambodia and has grown&#xA;from there.&#xA;We were impressed by the&#xA;overwhelming friendliness and determination of&#xA;the people despite their long and violent history&#xA;that resulted in their poor socio and economic&#xA;conditions, particularly in the rural communities.&#xA;We had been seeking avenues to contribute in a&#xA;valuable and meaningful way to society in the later&#xA;years of our life that could be achievable with&#xA;limited monetary resources. What started out as&#xA;a holiday has turned into a determination to help&#xA;make a brighter future for the children and youth&#xA;in a small, Cambodian, rural community.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about-us/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/about-us/kep-gardens-founders.jpg&#34; alt=&#34;Kep Gardens Founders&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kep Gardens was established in 2007.&lt;/p&gt;&#xA;&lt;p&gt;The vision of Kep Gardens was born in December,&#xA;2006 after a holiday in Cambodia and has grown&#xA;from there.&#xA;We were impressed by the&#xA;overwhelming friendliness and determination of&#xA;the people despite their long and violent history&#xA;that resulted in their poor socio and economic&#xA;conditions, particularly in the rural communities.&#xA;We had been seeking avenues to contribute in a&#xA;valuable and meaningful way to society in the later&#xA;years of our life that could be achievable with&#xA;limited monetary resources. What started out as&#xA;a holiday has turned into a determination to help&#xA;make a brighter future for the children and youth&#xA;in a small, Cambodian, rural community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Achievements</title>
-      <link>https://kepgardens.com/achievements/</link>
+      <link>http://localhost:1313/achievements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/achievements/</guid>
-      <description>&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;&#34;&gt;&#xA;&lt;div style=&#34;background-color: #F49847; padding: 2rem; border-radius: 10px; color: black !important; text-align: center;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;        &#xA;            &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h3  class=&#34;h6&#34;  id=&#34;kindergarten-teacher&#34; &gt;&#xA;    KINDERGARTEN TEACHER&#xA;&lt;/h3&gt; &lt;img src=&#34;https://kepgardens.com/images/achievements/kindergarten-teacher.png&#34; alt=&#34;Kindergarten Teacher&#34; style=&#34;max-width: 100%; height: auto; margin: 1rem auto; display: block;&#34;&gt;&#xA;&lt;p&gt;&amp;ldquo;Since 2009, Kep Gardens to me is a home, a famiN helping each other and a world of sharing love, knowledge, and peace.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;background-color: #709B18; padding: 2rem; border-radius: 10px; color: black !important; text-align: center;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h3  class=&#34;h6&#34;  id=&#34;surgical-nurse&#34; &gt;&#xA;    SURGICAL NURSE&#xA;&lt;/h3&gt; &lt;img src=&#34;https://kepgardens.com/images/achievements/surgical-nurse.png&#34; alt=&#34;Surgical Nurse&#34; style=&#34;max-width: 100%; height: auto; margin: 1rem auto; display: block;&#34;&gt;&#xA;&lt;p&gt;&amp;ldquo;The first steps of my journey towards becoming a surgical nurse began at Kep Gardens in 2009.&amp;rdquo;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/achievements/</guid>
+      <description>&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;&#34;&gt;&#xA;&lt;div style=&#34;background-color: #F49847; padding: 2rem; border-radius: 10px; color: black !important; text-align: center;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;        &#xA;            &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h3  class=&#34;h6&#34;  id=&#34;kindergarten-teacher&#34; &gt;&#xA;    KINDERGARTEN TEACHER&#xA;&lt;/h3&gt; &lt;img src=&#34;http://localhost:1313/images/achievements/kindergarten-teacher.png&#34; alt=&#34;Kindergarten Teacher&#34; style=&#34;max-width: 100%; height: auto; margin: 1rem auto; display: block;&#34;&gt;&#xA;&lt;p&gt;&amp;ldquo;Since 2009, Kep Gardens to me is a home, a family helping each other and a world of sharing love, knowledge, and peace.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;background-color: #709B18; padding: 2rem; border-radius: 10px; color: black !important; text-align: center;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h3  class=&#34;h6&#34;  id=&#34;surgical-nurse&#34; &gt;&#xA;    SURGICAL NURSE&#xA;&lt;/h3&gt; &lt;img src=&#34;http://localhost:1313/images/achievements/surgical-nurse.png&#34; alt=&#34;Surgical Nurse&#34; style=&#34;max-width: 100%; height: auto; margin: 1rem auto; display: block;&#34;&gt;&#xA;&lt;p&gt;&amp;ldquo;The first steps of my journey towards becoming a surgical nurse began at Kep Gardens in 2009.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>https://kepgardens.com/contact-us/</link>
+      <link>http://localhost:1313/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/contact-us/</guid>
+      <guid>http://localhost:1313/contact-us/</guid>
       <description>&lt;p&gt;To contact us for any reason, please send an email to &lt;a href=&#34;mailto:kepgardens513@gmail.com&#34;&gt;kepgardens513@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Subscribe to our newsletter to keep up with the latest happenings at Kep Gardens.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;        &#xA;            &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h2  class=&#34;h6&#34;  id=&#34;follow-us-on-social-media&#34; &gt;&#xA;    Follow Us on Social Media&#xA;&lt;/h2&gt; &lt;p&gt;Stay connected with our community through our social media channels:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;YouTube:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/@kepgardensassociation3207&#34;&gt;Kep Gardens Association&lt;/a&gt;&lt;br&gt;&#xA;Watch our videos showcasing community projects, educational programs, and volunteer activities.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Facebook:&lt;/strong&gt; &lt;a href=&#34;https://www.facebook.com/kepgardens/&#34;&gt;Kep Gardens&lt;/a&gt;&lt;br&gt;&#xA;Follow us for daily updates, photos, and community news.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Donate</title>
-      <link>https://kepgardens.com/donate/</link>
+      <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/donate/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://kepgardens.com/images/donate/gdg-logo.png&#34; alt=&#34;Global Development Group&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Global Development Group not only provide tax deductible receipts for donations but also provide support for their members in many varied ways.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://globaldevelopmentgroup.org/au/projects/j674n-kep-gardens-community-project&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Click here to go to Global Development Group to ensure a tax deductible receipt for your donation or sponsorship&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t forget, tax deductible donations can be paid through GDG Project J674N.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;        &#xA;            &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h4  class=&#34;h6&#34;  id=&#34;donate-with-paypal&#34; &gt;&#xA;    Donate with PayPal&#xA;&lt;/h4&gt; &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_blank&#34;&gt;&lt;input type=&#34;hidden&#34; name=&#34;cmd&#34;&#xA;        value=&#34;_s-xclick&#34;&gt;&lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;EMZQZFVRGPMPY&#34;&gt;&lt;input type=&#34;image&#34;&#xA;        src=&#34;https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif&#34; width=&#34;120&#34; height=&#34;60&#34;&#xA;        style=&#34;vertical-align:middle;margin:0px 0px&#34; border=&#34;0&#34; name=&#34;submit&#34; title=&#34;PayPal - The safer, easier&#xA;        way to pay online!&#34; alt=&#34;Donate with PayPal button&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34;&#xA;        src=&#34;https://www.paypal.com/en_AU/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;&lt;/form&gt;</description>
+      <guid>http://localhost:1313/donate/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/donate/edge-worldwide-logo.png&#34; alt=&#34;EDGE Worldwide&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If anyone is seeking a tax deductible receipt for donations to Kep Gardens, please use the following:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bank:&lt;/strong&gt; ANZ&lt;br&gt;&#xA;&lt;strong&gt;Account Name:&lt;/strong&gt; EDGE Worldwide&lt;br&gt;&#xA;&lt;strong&gt;BSB:&lt;/strong&gt; 013011&lt;br&gt;&#xA;&lt;strong&gt;Account No:&lt;/strong&gt; 659385738&lt;/p&gt;&#xA;&lt;p&gt;EDGE Worldwide proudly supports Kep Gardens and its educational impact in the surrounding community. EDGE, which stands for EDucational Growth and Empowerment, is an Australian-registered charity with the Australian Charities and Not-for-profits Commission and holds Deductible Gift Recipient (DGR) status, enabling communities, and creating pathways to opportunity, with Kep Gardens representing a key example of this impact, delivering accessible learning, vocational development, and ongoing support that empowers individuals and contributes to long-term community growth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Education Centre</title>
-      <link>https://kepgardens.com/education-centre/</link>
+      <link>http://localhost:1313/education-centre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/education-centre/</guid>
-      <description>&lt;h2  class=&#34;h6&#34;  id=&#34;education-centre-gallery&#34; &gt;&#xA;    Education Centre Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/english-class-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/english-class-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/english-class-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/english-class-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/english-class-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/english-class-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/english-class-4.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/english-class-4.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/english-class-5.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/english-class-5.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/playgroup.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/playgroup.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/youth-programme.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/youth-programme.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/library-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/library-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/library-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/library-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/library-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/library-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/debating-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/debating-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/education-centre/debating-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/education-centre/debating-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h2  class=&#34;h6&#34;  id=&#34;english-language-development&#34; &gt;&#xA;    ENGLISH LANGUAGE DEVELOPMENT&#xA;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;English classes&lt;/strong&gt; – Sixteen classes ranging in&#xA;age from 6 to 19 years old. A formal,&#xA;customized English-based curriculum based&#xA;on Jolly Phonics, developed to meet the&#xA;needs of the student population.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/education-centre/</guid>
+      <description>&lt;h2  class=&#34;h6&#34;  id=&#34;education-centre-gallery&#34; &gt;&#xA;    Education Centre Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/english-class-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/english-class-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/english-class-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/english-class-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/english-class-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/english-class-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/english-class-4.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/english-class-4.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/english-class-5.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/english-class-5.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/playgroup.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/playgroup.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/youth-programme.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/youth-programme.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/library-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/library-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/library-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/library-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/library-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/library-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/debating-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/debating-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/education-centre/debating-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/education-centre/debating-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h2  class=&#34;h6&#34;  id=&#34;english-language-development&#34; &gt;&#xA;    ENGLISH LANGUAGE DEVELOPMENT&#xA;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;English classes&lt;/strong&gt; – Sixteen classes ranging in&#xA;age from 6 to 19 years old. A formal,&#xA;customized English-based curriculum based&#xA;on Jolly Phonics, developed to meet the&#xA;needs of the student population.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Educational Support Fund</title>
-      <link>https://kepgardens.com/educational-support-fund/</link>
+      <link>http://localhost:1313/educational-support-fund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/educational-support-fund/</guid>
+      <guid>http://localhost:1313/educational-support-fund/</guid>
       <description>&lt;h1  class=&#34;h6&#34;  id=&#34;career-students&#34; &gt;&#xA;    CAREER STUDENTS&#xA;&lt;/h1&gt; &lt;p&gt;Providing promising students intensive Year&#xA;12 and entrance examination private tutoring,&#xA;support and mentoring through their chosen&#xA;university studies, nursing, engineering, IT, pharmacy and&#xA;kindergarten teaching.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Workshop</title>
-      <link>https://kepgardens.com/workshop/</link>
+      <link>http://localhost:1313/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/workshop/</guid>
-      <description>&lt;h2  class=&#34;h6&#34;  id=&#34;workshop-gallery&#34; &gt;&#xA;    Workshop Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/workshop/traditional-craft.png&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/workshop/traditional-craft.png&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/workshop/workshop-activity-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/workshop/workshop-activity-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/workshop/workshop-activity-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/workshop/workshop-activity-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/workshop/workshop-activity-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/workshop/workshop-activity-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&lt;p&gt;Comprehensive practical training in trade&#xA;skills primarily associated with engineering&#xA;and construction industries. Particular&#xA;attention to learning, responsibility, quality&#xA;and care. Our goal is to prepare students for&#xA;entry into quality employment.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/workshop/</guid>
+      <description>&lt;h2  class=&#34;h6&#34;  id=&#34;workshop-gallery&#34; &gt;&#xA;    Workshop Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/workshop/traditional-craft.png&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/workshop/traditional-craft.png&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/workshop/workshop-activity-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/workshop/workshop-activity-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/workshop/workshop-activity-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/workshop/workshop-activity-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/workshop/workshop-activity-3.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/workshop/workshop-activity-3.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&lt;p&gt;Comprehensive practical training in trade&#xA;skills primarily associated with engineering&#xA;and construction industries. Particular&#xA;attention to learning, responsibility, quality&#xA;and care. Our goal is to prepare students for&#xA;entry into quality employment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Volunteer Accommodation</title>
-      <link>https://kepgardens.com/volunteer-accommodation/</link>
+      <link>http://localhost:1313/volunteer-accommodation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/volunteer-accommodation/</guid>
-      <description>&lt;h1  class=&#34;h5&#34;  id=&#34;volunteer-accommodation-and-facilities&#34; &gt;&#xA;    Volunteer Accommodation and Facilities&#xA;&lt;/h1&gt; &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h2  class=&#34;h6&#34;  id=&#34;accommodation-gallery&#34; &gt;&#xA;    Accommodation Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/volunteer-accommodation/outside.JPG&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/volunteer-accommodation/outside.JPG&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/volunteer-accommodation/inside-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/volunteer-accommodation/inside-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/volunteer-accommodation/inside-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/volunteer-accommodation/inside-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;https://kepgardens.com/images/volunteer-accommodation/canteen.JPG&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;https://kepgardens.com/images/volunteer-accommodation/canteen.JPG&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&lt;ul&gt;&#xA;&lt;li&gt;A donation of $6 per day per room applies. If you stay elsewhere on the weekends, we will keep your possessions in your room without charge.&lt;/li&gt;&#xA;&lt;li&gt;Volunteers stay in a room with an ensuite bathroom (hot water shower), fan, mosquito net, linen and towels provided. This room may be shared depending on the number of volunteers.&lt;/li&gt;&#xA;&lt;li&gt;The room is cleaned every day and linen changed regularly.&lt;/li&gt;&#xA;&lt;li&gt;A kitchen is available for use. You are welcome to join staff members for a Khmer lunch at a cost of $2. Deliveries of evening meals can be arranged.&lt;/li&gt;&#xA;&lt;li&gt;A canteen is open during the day for snacks, noodles and Khmer coffee. Breakfast is available at the canteen.&lt;/li&gt;&#xA;&lt;li&gt;Unlimited bottled water is provided in your room as well as the shed. Please bring your own bottle for refills.&lt;/li&gt;&#xA;&lt;li&gt;The room is cleaned every day and linen changed regularly.&lt;/li&gt;&#xA;&lt;li&gt;A laundry service is available at your cost.&lt;/li&gt;&#xA;&lt;li&gt;Wifi is available.&lt;/li&gt;&#xA;&lt;li&gt;Insect repellent and sunscreen are must haves. Also any medications you require.&lt;/li&gt;&#xA;&lt;li&gt;Please bring a torch/flashlight.&lt;/li&gt;&#xA;&lt;li&gt;There is a town about 1.5 kms away with a market and other facilities including a bank and an ATM.&lt;/li&gt;&#xA;&lt;li&gt;Other ATMs are available in Kep.&lt;/li&gt;&#xA;&lt;li&gt;The nearest place for European food, post office or beach is Kep, approximately 10 kms away. An excellent Italian restaurant has opened in the village.&lt;/li&gt;&#xA;&lt;li&gt;Tuktuk or moto can be arranged at your expense.&lt;/li&gt;&#xA;&lt;li&gt;Hire of a motorcycle can be arranged.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;** If accommodation at Kep Gardens is booked, we have an excellent alternative right next door with identical facilities.  Details will be sent if necessary.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/volunteer-accommodation/</guid>
+      <description>&lt;h1  class=&#34;h5&#34;  id=&#34;volunteer-accommodation-and-facilities&#34; &gt;&#xA;    Volunteer Accommodation and Facilities&#xA;&lt;/h1&gt; &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;&#xA;    &#xA;&#xA;    &#xA;&#xA;&#xA;&lt;h2  class=&#34;h6&#34;  id=&#34;accommodation-gallery&#34; &gt;&#xA;    Accommodation Gallery&#xA;&lt;/h2&gt; &lt;div class=&#34;gallery&#34;&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/volunteer-accommodation/outside.JPG&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/volunteer-accommodation/outside.JPG&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/volunteer-accommodation/inside-1.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/volunteer-accommodation/inside-1.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/volunteer-accommodation/inside-2.jpg&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/volunteer-accommodation/inside-2.jpg&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;gallery-item&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/volunteer-accommodation/canteen.JPG&#34; data-lightbox=&#34;gallery&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/volunteer-accommodation/canteen.JPG&#34; alt=&#34;Gallery image&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;  margin: 2rem 0;&#xA;}&#xA;&#xA;.gallery-item {&#xA;  position: relative;&#xA;  overflow: hidden;&#xA;  border-radius: 8px;&#xA;  transition: transform 0.3s ease;&#xA;  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);&#xA;}&#xA;&#xA;.gallery-item:hover {&#xA;  transform: scale(1.05);&#xA;  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);&#xA;}&#xA;&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: 200px;&#xA;  object-fit: cover;&#xA;  display: block;&#xA;}&#xA;&#xA;.gallery-item a {&#xA;  text-decoration: none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;script&gt;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const galleryLinks = document.querySelectorAll(&#39;[data-lightbox=&#34;gallery&#34;]&#39;);&#xA;  &#xA;  galleryLinks.forEach(function(link) {&#xA;    link.addEventListener(&#39;click&#39;, function(e) {&#xA;      e.preventDefault();&#xA;      &#xA;      &#xA;      const overlay = document.createElement(&#39;div&#39;);&#xA;      overlay.style.cssText = `&#xA;        position: fixed;&#xA;        top: 0;&#xA;        left: 0;&#xA;        width: 100%;&#xA;        height: 100%;&#xA;        background: rgba(0, 0, 0, 0.9);&#xA;        display: flex;&#xA;        justify-content: center;&#xA;        align-items: center;&#xA;        z-index: 9999;&#xA;        cursor: pointer;&#xA;      `;&#xA;      &#xA;      &#xA;      const img = document.createElement(&#39;img&#39;);&#xA;      img.src = this.href;&#xA;      img.style.cssText = `&#xA;        max-width: 90%;&#xA;        max-height: 90%;&#xA;        object-fit: contain;&#xA;        border-radius: 8px;&#xA;      `;&#xA;      &#xA;      overlay.appendChild(img);&#xA;      document.body.appendChild(overlay);&#xA;      &#xA;      &#xA;      overlay.addEventListener(&#39;click&#39;, function() {&#xA;        document.body.removeChild(overlay);&#xA;      });&#xA;      &#xA;      &#xA;      document.addEventListener(&#39;keydown&#39;, function(e) {&#xA;        if (e.key === &#39;Escape&#39;) {&#xA;          if (document.body.contains(overlay)) {&#xA;            document.body.removeChild(overlay);&#xA;          }&#xA;        }&#xA;      });&#xA;    });&#xA;  });&#xA;});&#xA;&lt;/script&gt; &#xA;&lt;ul&gt;&#xA;&lt;li&gt;A donation of $6 per day per room applies. If you stay elsewhere on the weekends, we will keep your possessions in your room without charge.&lt;/li&gt;&#xA;&lt;li&gt;Volunteers stay in a room with an ensuite bathroom (hot water shower), fan, mosquito net, linen and towels provided. This room may be shared depending on the number of volunteers.&lt;/li&gt;&#xA;&lt;li&gt;The room is cleaned every day and linen changed regularly.&lt;/li&gt;&#xA;&lt;li&gt;A kitchen is available for use. You are welcome to join staff members for a Khmer lunch at a cost of $2. Deliveries of evening meals can be arranged.&lt;/li&gt;&#xA;&lt;li&gt;A canteen is open during the day for snacks, noodles and Khmer coffee. Breakfast is available at the canteen.&lt;/li&gt;&#xA;&lt;li&gt;Unlimited bottled water is provided in your room as well as the shed. Please bring your own bottle for refills.&lt;/li&gt;&#xA;&lt;li&gt;The room is cleaned every day and linen changed regularly.&lt;/li&gt;&#xA;&lt;li&gt;A laundry service is available at your cost.&lt;/li&gt;&#xA;&lt;li&gt;Wifi is available.&lt;/li&gt;&#xA;&lt;li&gt;Insect repellent and sunscreen are must haves. Also any medications you require.&lt;/li&gt;&#xA;&lt;li&gt;Please bring a torch/flashlight.&lt;/li&gt;&#xA;&lt;li&gt;There is a town about 1.5 kms away with a market and other facilities including a bank and an ATM.&lt;/li&gt;&#xA;&lt;li&gt;Other ATMs are available in Kep.&lt;/li&gt;&#xA;&lt;li&gt;The nearest place for European food, post office or beach is Kep, approximately 10 kms away. An excellent Italian restaurant has opened in the village.&lt;/li&gt;&#xA;&lt;li&gt;Tuktuk or moto can be arranged at your expense.&lt;/li&gt;&#xA;&lt;li&gt;Hire of a motorcycle can be arranged.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;** If accommodation at Kep Gardens is booked, we have an excellent alternative right next door with identical facilities.  Details will be sent if necessary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Volunteer Information</title>
-      <link>https://kepgardens.com/volunteer-information/</link>
+      <link>http://localhost:1313/volunteer-information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/volunteer-information/</guid>
+      <guid>http://localhost:1313/volunteer-information/</guid>
       <description>&lt;h1  class=&#34;h4&#34;  id=&#34;volunteer-information&#34; &gt;&#xA;    Volunteer Information&#xA;&lt;/h1&gt; &lt;p&gt;Volunteering at Kep Gardens is an educational, fun and valued experience. Come for a day or for as long as you like. Our formal programme is structured to allow flexibility as do our accommodation facilities.&lt;/p&gt;&#xA;&lt;p&gt;Kep Gardens welcomes you into our family. We are looking forward to your visit. We have put together a few points for you to understand about our expectations of your volunteer work and the living conditions you will encounter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Volunteer Stories</title>
-      <link>https://kepgardens.com/volunteer-stories/</link>
+      <link>http://localhost:1313/volunteer-stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/volunteer-stories/</guid>
-      <description>&lt;h1  class=&#34;h3&#34;  id=&#34;volunteer-stories&#34; &gt;&#xA;    Volunteer Stories&#xA;&lt;/h1&gt; &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5ecwZOITE8g&#34;&gt;https://www.youtube.com/watch?v=5ecwZOITE8g&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://kepgardens.com/images/volunteer-stories/matilde.jpg&#34; alt=&#34;Matilde&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A love letter to Kep Gardens and Cambodia: sharing is caring&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;So, the time has come for a debriefing on my first volunteering experience.&lt;/p&gt;&#xA;&lt;p&gt;Having nowhere in mind to go, I checked the GivingWay Volunteer &amp;amp; Travel Advice page to search for a suitable place to start. I knew I wanted something to do with education, especially in a place where the means to learn are yet to have their finest hour. So, with that in mind, I applied through the GivingWay platform for a place to teach English in Cambodia and waited to hear from them.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/volunteer-stories/</guid>
+      <description>&lt;h1  class=&#34;h3&#34;  id=&#34;volunteer-stories&#34; &gt;&#xA;    Volunteer Stories&#xA;&lt;/h1&gt; &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5ecwZOITE8g&#34;&gt;https://www.youtube.com/watch?v=5ecwZOITE8g&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/volunteer-stories/matilde.jpg&#34; alt=&#34;Matilde&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A love letter to Kep Gardens and Cambodia: sharing is caring&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;So, the time has come for a debriefing on my first volunteering experience.&lt;/p&gt;&#xA;&lt;p&gt;Having nowhere in mind to go, I checked the GivingWay Volunteer &amp;amp; Travel Advice page to search for a suitable place to start. I knew I wanted something to do with education, especially in a place where the means to learn are yet to have their finest hour. So, with that in mind, I applied through the GivingWay platform for a place to teach English in Cambodia and waited to hear from them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Volunteers</title>
-      <link>https://kepgardens.com/volunteers/</link>
+      <link>http://localhost:1313/volunteers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kepgardens.com/volunteers/</guid>
+      <guid>http://localhost:1313/volunteers/</guid>
       <description>&lt;h1  class=&#34;h6&#34;  id=&#34;volunteer-experience&#34; &gt;&#xA;    VOLUNTEER EXPERIENCE&#xA;&lt;/h1&gt; &lt;p&gt;The first thing that struck us was how happy, at&#xA;ease and comfortable the children are at Kep&#xA;Gardens. Janine and Andrew have created a&#xA;delightful atmosphere – the resources built up&#xA;over time are impressive and the classrooms&#xA;bright and colourful. It was wonderful to be able&#xA;to contribute.&lt;/p&gt;&#xA;&lt;p&gt;The opportunity to work one-on-one with the&#xA;students – from number, colour and image&#xA;recognition with the very small children, to&#xA;reading through various levels for the primary&#xA;children, to conversations with those in classes&#xA;7 and 8 – was very special and lots of fun.&#xA;Being able to give intensive individual time to&#xA;children to help them practice their English is so&#xA;beneficial for their communication skills and&#xA;understanding. Some of our favourite moments&#xA;were of taking class 8 for conversation and&#xA;learning about their lives and what they hope to&#xA;do.&lt;/p&gt;</description>
     </item>
   </channel>

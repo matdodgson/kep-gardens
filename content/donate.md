@@ -12,7 +12,7 @@ If anyone is seeking a tax deductible receipt for donations to Kep Gardens, plea
 **BSB:** 013011  
 **Account No:** 659385738
 
-EDGE Worldwide proudly supports Kep Gardens and its educational impact in the surrounding community. EDGE, which stands for Educational Growth and Empowerment, is an Australian-registered charity with the Australian Charities and Not-for-profits Commission and holds Deductible Gift Recipient (DGR) status, enabling communities, and creating pathways to opportunity, with Kep Gardens representing a key example of this impact, delivering accessible learning, vocational development, and ongoing support that empowers individuals and contributes to long-term community growth.
+EDGE Worldwide proudly supports Kep Gardens and its educational impact in the surrounding community. EDGE, which stands for EDucational Growth and Empowerment, is an Australian-registered charity with the Australian Charities and Not-for-profits Commission and holds Deductible Gift Recipient (DGR) status, enabling communities, and creating pathways to opportunity, with Kep Gardens representing a key example of this impact, delivering accessible learning, vocational development, and ongoing support that empowers individuals and contributes to long-term community growth.
 
 ---
 
